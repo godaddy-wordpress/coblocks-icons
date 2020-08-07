@@ -120,6 +120,7 @@ const replacePrimitives = (str) => {
 		"<svg": "<SVG",
 		"svg>": "SVG>",
 		"<g": "<G",
+		"g>": "G>",
 		"<path": "<Path",
 		"<rect": "<Rect",
 		"<circle": "<Circle",

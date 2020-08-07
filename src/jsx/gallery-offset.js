@@ -15,7 +15,7 @@ const galleryOffset = (
 				d="m5.5 12 3.71429-2 2.78571 1.3333 3.25-2.3333 3.25 2.3333"
 				stroke-linejoin="round"
 			/>
-		</g>
+		</G>
 	</SVG>
 );
 

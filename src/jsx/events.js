@@ -21,7 +21,7 @@ const events = (
 			<Path d="m15 10h2v2h-2z" />
 			<Path d="m11 14h2v2h-2z" />
 			<Path d="m15 14h2v2h-2z" />
-		</g>
+		</G>
 	</SVG>
 );
 

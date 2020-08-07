@@ -14,7 +14,7 @@ const posts = (
 			<Path d="m13 14.25h7" />
 			<Path d="m3 18.25h5" />
 			<Path d="m3 14.25h7" />
-		</g>
+		</G>
 	</SVG>
 );
 

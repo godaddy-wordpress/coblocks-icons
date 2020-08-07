@@ -17,7 +17,7 @@ const share = (
 			<Rect height="4" rx="1" width="4" x="5" y="10" />
 			<Rect height="4" rx="1" width="4" x="15" y="4" />
 			<Rect height="4" rx="1" width="4" x="15" y="16" />
-		</g>
+		</G>
 	</SVG>
 );
 

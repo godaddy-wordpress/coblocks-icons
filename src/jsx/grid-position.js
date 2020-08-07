@@ -17,7 +17,7 @@ const gridPosition = (
 			<Path d="m4 11h2v2h-2z" />
 			<Path d="m10 10h4v4h-4z" />
 			<Path d="m18 11h2v2h-2z" />
-		</g>
+		</G>
 	</SVG>
 );
 

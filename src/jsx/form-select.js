@@ -10,7 +10,7 @@ const formSelect = (
 		<G stroke="currentColor" stroke-width="1.5" fill="none">
 			<Circle cx="12" cy="12" r="7.25" />
 			<Path d="m8 11 3.7141 2.7755c.1781.133.4225.1326.6001-.001l3.6858-2.7745" />
-		</g>
+		</G>
 	</SVG>
 );
 

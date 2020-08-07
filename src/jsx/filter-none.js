@@ -13,7 +13,7 @@ const filterNone = (
 				d="m4 16 4.57143-3.3333 3.42857 2.2222 4-3.8889 4 3.8889"
 				stroke-linejoin="round"
 			/>
-		</g>
+		</G>
 	</SVG>
 );
 

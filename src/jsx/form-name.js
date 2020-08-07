@@ -11,7 +11,7 @@ const formName = (
 			<Path d="m13 11.9999v-1c0-1.10459-.8954-2.00002-2-2.00002h-4c-1.10457 0-2 .89543-2 2.00002v1" />
 			<Path d="m4 19.2499h9" />
 			<Path d="m4 15.2499h16" />
-		</g>
+		</G>
 		<Circle cx="9" cy="5" fill="currentColor" r="2" />
 	</SVG>
 );

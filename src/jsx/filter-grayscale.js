@@ -20,7 +20,7 @@ const filterGrayscale = (
 		<G fill="currentColor">
 			<Path d="m12 11.5 8 8.5h-8z" />
 			<Path d="m4 4h8v7.5l-7.99993 8.5z" />
-		</g>
+		</G>
 	</SVG>
 );
 
