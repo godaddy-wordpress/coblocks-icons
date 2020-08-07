@@ -12,20 +12,27 @@
 	],
 	"homepage": "https://github.com/godaddy-wordpress/coblocks-icons",
 	"repository": "godaddy-wordpress/coblocks-icons",
+	"publishConfig": {
+		"access": "public"
+	},
 	"bugs": {
 		"url": "https://github.com/godaddy-wordpress/coblocks-icons/issues"
 	},
-	"main": "src/index.js",
+	"main": "build/index.js",
 	"dependencies": {
 		"@wordpress/primitives": "^1.7.0"
 	},
 	"devDependencies": {
+		"@babel/cli": "^7.10.5",
+		"@babel/core": "^7.11.1",
+		"@wordpress/babel-preset-default": "^4.17.0",
 		"@wordpress/eslint-plugin": "^7.1.0",
 		"prettier": "^2.0.5",
 		"rimraf": "^3.0.2"
 	},
 	"scripts": {
-		"build": "node build.js",
+		"compile": "babel src --out-dir build",
+		"build": "node build.js && npm run compile",
 		"prepublish": "npm run clean && npm run build",
 		"clean": "rimraf ./src/jsx"
 	}

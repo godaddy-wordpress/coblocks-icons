@@ -59,7 +59,7 @@ const createJSX = (file) => {
 			parser: "babel",
 		});
 
-		writeFile(`${ path }jsx/`, `${ fileName }.js`, content);
+		writeFile(`${ path }library/`, `${ fileName }.js`, content);
 	});
 };
 
@@ -78,7 +78,7 @@ createIndex = (files) => {
 
 		content =
 			content +
-			`export { default as ${toPascalCase(filename)}Icon } from './jsx/${filename}';\r\n`;
+			`export { default as ${toPascalCase(filename)}Icon } from './library/${filename}';\r\n`;
 	});
 
 	fs.mkdirSync(path, { recursive: true });
