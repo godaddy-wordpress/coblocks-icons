@@ -1,0 +1,32 @@
+{
+	"name": "coblocks-icons",
+	"version": "1.0.0",
+	"description": "CoBlocks Icons.",
+	"author": "GoDaddy",
+	"license": "GPL-2.0",
+	"keywords": [
+		"coblocks",
+		"wordpress",
+		"gutenberg",
+		"icons"
+	],
+	"homepage": "https://github.com/godaddy-wordpress/coblocks-icons",
+	"repository": "godaddy-wordpress/coblocks",
+	"bugs": {
+		"url": "https://github.com/godaddy-wordpress/coblocks-icons/issues"
+	},
+	"main": "src/index.js",
+	"dependencies": {
+		"@wordpress/primitives": "^1.7.0"
+	},
+	"devDependencies": {
+		"ncp": "^2.0.0",
+		"prettier": "^2.0.5",
+		"rimraf": "^3.0.2"
+	},
+	"scripts": {
+		"build": "node build.js",
+		"prepublish": "npm run clean && npm run build",
+		"clean": "rimraf ./dist"
+	}
+}

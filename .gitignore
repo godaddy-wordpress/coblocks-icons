@@ -1,0 +1,12 @@
+**/*.min.js
+**/*.build.js
+**/node_modules/**
+**/vendor/**
+**/build/**
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.cache
+sandbox.json
+/.idea/
+**/.DS_Store
