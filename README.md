@@ -14,7 +14,7 @@ return (
 )
 ```
 
-### Using Wordpress Icon for width/height control
+### Using WordPress Icon for width/height control
 
 ```js
 import { Icon } from '@wordpress/icons';
