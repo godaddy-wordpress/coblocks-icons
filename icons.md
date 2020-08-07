@@ -2,62 +2,62 @@
 	
 | Icon   | Name   | Component name   |
 | ------ | ------ | ---------------- |
-| <img src="./src/svg/accordion-item.svg" width=32> | accordion-item | AccordionItemIcon |
-| <img src="./src/svg/accordion.svg" width=32> | accordion | AccordionIcon |
-| <img src="./src/svg/alert.svg" width=32> | alert | AlertIcon |
-| <img src="./src/svg/at.svg" width=32> | at | AtIcon |
-| <img src="./src/svg/author.svg" width=32> | author | AuthorIcon |
-| <img src="./src/svg/column.svg" width=32> | column | ColumnIcon |
-| <img src="./src/svg/dynamic-hr.svg" width=32> | dynamic-hr | DynamicHrIcon |
-| <img src="./src/svg/events.svg" width=32> | events | EventsIcon |
-| <img src="./src/svg/feature.svg" width=32> | feature | FeatureIcon |
-| <img src="./src/svg/filter-dark.svg" width=32> | filter-dark | FilterDarkIcon |
-| <img src="./src/svg/filter-grayscale.svg" width=32> | filter-grayscale | FilterGrayscaleIcon |
-| <img src="./src/svg/filter-main.svg" width=32> | filter-main | FilterMainIcon |
-| <img src="./src/svg/filter-none.svg" width=32> | filter-none | FilterNoneIcon |
-| <img src="./src/svg/filter-saturation.svg" width=32> | filter-saturation | FilterSaturationIcon |
-| <img src="./src/svg/filter-sepia.svg" width=32> | filter-sepia | FilterSepiaIcon |
-| <img src="./src/svg/filter-vintage.svg" width=32> | filter-vintage | FilterVintageIcon |
-| <img src="./src/svg/flip-horizontal.svg" width=32> | flip-horizontal | FlipHorizontalIcon |
-| <img src="./src/svg/flip-vertical.svg" width=32> | flip-vertical | FlipVerticalIcon |
-| <img src="./src/svg/food-drink.svg" width=32> | food-drink | FoodDrinkIcon |
-| <img src="./src/svg/food-item.svg" width=32> | food-item | FoodItemIcon |
-| <img src="./src/svg/form-checkbox.svg" width=32> | form-checkbox | FormCheckboxIcon |
-| <img src="./src/svg/form-date.svg" width=32> | form-date | FormDateIcon |
-| <img src="./src/svg/form-email.svg" width=32> | form-email | FormEmailIcon |
-| <img src="./src/svg/form-hidden.svg" width=32> | form-hidden | FormHiddenIcon |
-| <img src="./src/svg/form-name.svg" width=32> | form-name | FormNameIcon |
-| <img src="./src/svg/form-phone.svg" width=32> | form-phone | FormPhoneIcon |
-| <img src="./src/svg/form-radio.svg" width=32> | form-radio | FormRadioIcon |
-| <img src="./src/svg/form-select.svg" width=32> | form-select | FormSelectIcon |
-| <img src="./src/svg/form-submit.svg" width=32> | form-submit | FormSubmitIcon |
-| <img src="./src/svg/form-text.svg" width=32> | form-text | FormTextIcon |
-| <img src="./src/svg/form-textarea.svg" width=32> | form-textarea | FormTextareaIcon |
-| <img src="./src/svg/form-website.svg" width=32> | form-website | FormWebsiteIcon |
-| <img src="./src/svg/form.svg" width=32> | form | FormIcon |
-| <img src="./src/svg/gallery-carousel.svg" width=32> | gallery-carousel | GalleryCarouselIcon |
-| <img src="./src/svg/gallery-collage.svg" width=32> | gallery-collage | GalleryCollageIcon |
-| <img src="./src/svg/gallery-masonry.svg" width=32> | gallery-masonry | GalleryMasonryIcon |
-| <img src="./src/svg/gallery-offset.svg" width=32> | gallery-offset | GalleryOffsetIcon |
-| <img src="./src/svg/gallery-stacked.svg" width=32> | gallery-stacked | GalleryStackedIcon |
-| <img src="./src/svg/gif.svg" width=32> | gif | GifIcon |
-| <img src="./src/svg/github.svg" width=32> | github | GithubIcon |
-| <img src="./src/svg/grid-position.svg" width=32> | grid-position | GridPositionIcon |
-| <img src="./src/svg/hero.svg" width=32> | hero | HeroIcon |
-| <img src="./src/svg/highlight.svg" width=32> | highlight | HighlightIcon |
-| <img src="./src/svg/icon.svg" width=32> | icon | IconIcon |
-| <img src="./src/svg/logos.svg" width=32> | logos | LogosIcon |
-| <img src="./src/svg/map.svg" width=32> | map | MapIcon |
-| <img src="./src/svg/media-card.svg" width=32> | media-card | MediaCardIcon |
-| <img src="./src/svg/open.svg" width=32> | open | OpenIcon |
-| <img src="./src/svg/post-carousel.svg" width=32> | post-carousel | PostCarouselIcon |
-| <img src="./src/svg/posts.svg" width=32> | posts | PostsIcon |
-| <img src="./src/svg/pricing-table-item.svg" width=32> | pricing-table-item | PricingTableItemIcon |
-| <img src="./src/svg/pricing-table.svg" width=32> | pricing-table | PricingTableIcon |
-| <img src="./src/svg/row.svg" width=32> | row | RowIcon |
-| <img src="./src/svg/service-item.svg" width=32> | service-item | ServiceItemIcon |
-| <img src="./src/svg/services.svg" width=32> | services | ServicesIcon |
-| <img src="./src/svg/settings.svg" width=32> | settings | SettingsIcon |
-| <img src="./src/svg/shape-divider.svg" width=32> | shape-divider | ShapeDividerIcon |
-| <img src="./src/svg/share.svg" width=32> | share | ShareIcon |
-| <img src="./src/svg/social-profiles.svg" width=32> | social-profiles | SocialProfilesIcon |
+| <img src="./src/svg/accordion-item.svg" width="24" height="24"> | accordion-item | AccordionItemIcon |
+| <img src="./src/svg/accordion.svg" width="24" height="24"> | accordion | AccordionIcon |
+| <img src="./src/svg/alert.svg" width="24" height="24"> | alert | AlertIcon |
+| <img src="./src/svg/at.svg" width="24" height="24"> | at | AtIcon |
+| <img src="./src/svg/author.svg" width="24" height="24"> | author | AuthorIcon |
+| <img src="./src/svg/column.svg" width="24" height="24"> | column | ColumnIcon |
+| <img src="./src/svg/dynamic-hr.svg" width="24" height="24"> | dynamic-hr | DynamicHrIcon |
+| <img src="./src/svg/events.svg" width="24" height="24"> | events | EventsIcon |
+| <img src="./src/svg/feature.svg" width="24" height="24"> | feature | FeatureIcon |
+| <img src="./src/svg/filter-dark.svg" width="24" height="24"> | filter-dark | FilterDarkIcon |
+| <img src="./src/svg/filter-grayscale.svg" width="24" height="24"> | filter-grayscale | FilterGrayscaleIcon |
+| <img src="./src/svg/filter-main.svg" width="24" height="24"> | filter-main | FilterMainIcon |
+| <img src="./src/svg/filter-none.svg" width="24" height="24"> | filter-none | FilterNoneIcon |
+| <img src="./src/svg/filter-saturation.svg" width="24" height="24"> | filter-saturation | FilterSaturationIcon |
+| <img src="./src/svg/filter-sepia.svg" width="24" height="24"> | filter-sepia | FilterSepiaIcon |
+| <img src="./src/svg/filter-vintage.svg" width="24" height="24"> | filter-vintage | FilterVintageIcon |
+| <img src="./src/svg/flip-horizontal.svg" width="24" height="24"> | flip-horizontal | FlipHorizontalIcon |
+| <img src="./src/svg/flip-vertical.svg" width="24" height="24"> | flip-vertical | FlipVerticalIcon |
+| <img src="./src/svg/food-drink.svg" width="24" height="24"> | food-drink | FoodDrinkIcon |
+| <img src="./src/svg/food-item.svg" width="24" height="24"> | food-item | FoodItemIcon |
+| <img src="./src/svg/form-checkbox.svg" width="24" height="24"> | form-checkbox | FormCheckboxIcon |
+| <img src="./src/svg/form-date.svg" width="24" height="24"> | form-date | FormDateIcon |
+| <img src="./src/svg/form-email.svg" width="24" height="24"> | form-email | FormEmailIcon |
+| <img src="./src/svg/form-hidden.svg" width="24" height="24"> | form-hidden | FormHiddenIcon |
+| <img src="./src/svg/form-name.svg" width="24" height="24"> | form-name | FormNameIcon |
+| <img src="./src/svg/form-phone.svg" width="24" height="24"> | form-phone | FormPhoneIcon |
+| <img src="./src/svg/form-radio.svg" width="24" height="24"> | form-radio | FormRadioIcon |
+| <img src="./src/svg/form-select.svg" width="24" height="24"> | form-select | FormSelectIcon |
+| <img src="./src/svg/form-submit.svg" width="24" height="24"> | form-submit | FormSubmitIcon |
+| <img src="./src/svg/form-text.svg" width="24" height="24"> | form-text | FormTextIcon |
+| <img src="./src/svg/form-textarea.svg" width="24" height="24"> | form-textarea | FormTextareaIcon |
+| <img src="./src/svg/form-website.svg" width="24" height="24"> | form-website | FormWebsiteIcon |
+| <img src="./src/svg/form.svg" width="24" height="24"> | form | FormIcon |
+| <img src="./src/svg/gallery-carousel.svg" width="24" height="24"> | gallery-carousel | GalleryCarouselIcon |
+| <img src="./src/svg/gallery-collage.svg" width="24" height="24"> | gallery-collage | GalleryCollageIcon |
+| <img src="./src/svg/gallery-masonry.svg" width="24" height="24"> | gallery-masonry | GalleryMasonryIcon |
+| <img src="./src/svg/gallery-offset.svg" width="24" height="24"> | gallery-offset | GalleryOffsetIcon |
+| <img src="./src/svg/gallery-stacked.svg" width="24" height="24"> | gallery-stacked | GalleryStackedIcon |
+| <img src="./src/svg/gif.svg" width="24" height="24"> | gif | GifIcon |
+| <img src="./src/svg/github.svg" width="24" height="24"> | github | GithubIcon |
+| <img src="./src/svg/grid-position.svg" width="24" height="24"> | grid-position | GridPositionIcon |
+| <img src="./src/svg/hero.svg" width="24" height="24"> | hero | HeroIcon |
+| <img src="./src/svg/highlight.svg" width="24" height="24"> | highlight | HighlightIcon |
+| <img src="./src/svg/icon.svg" width="24" height="24"> | icon | IconIcon |
+| <img src="./src/svg/logos.svg" width="24" height="24"> | logos | LogosIcon |
+| <img src="./src/svg/map.svg" width="24" height="24"> | map | MapIcon |
+| <img src="./src/svg/media-card.svg" width="24" height="24"> | media-card | MediaCardIcon |
+| <img src="./src/svg/open.svg" width="24" height="24"> | open | OpenIcon |
+| <img src="./src/svg/post-carousel.svg" width="24" height="24"> | post-carousel | PostCarouselIcon |
+| <img src="./src/svg/posts.svg" width="24" height="24"> | posts | PostsIcon |
+| <img src="./src/svg/pricing-table-item.svg" width="24" height="24"> | pricing-table-item | PricingTableItemIcon |
+| <img src="./src/svg/pricing-table.svg" width="24" height="24"> | pricing-table | PricingTableIcon |
+| <img src="./src/svg/row.svg" width="24" height="24"> | row | RowIcon |
+| <img src="./src/svg/service-item.svg" width="24" height="24"> | service-item | ServiceItemIcon |
+| <img src="./src/svg/services.svg" width="24" height="24"> | services | ServicesIcon |
+| <img src="./src/svg/settings.svg" width="24" height="24"> | settings | SettingsIcon |
+| <img src="./src/svg/shape-divider.svg" width="24" height="24"> | shape-divider | ShapeDividerIcon |
+| <img src="./src/svg/share.svg" width="24" height="24"> | share | ShareIcon |
+| <img src="./src/svg/social-profiles.svg" width="24" height="24"> | social-profiles | SocialProfilesIcon |

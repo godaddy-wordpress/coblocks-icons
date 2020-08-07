@@ -103,7 +103,7 @@ createIconsMD = (files) => {
 
 		content =
 			content +
-			`| <img src="./src/svg/${file}" width=32> | ${filename} | ${toPascalCase(filename)}Icon |\r\n`;
+			`| <img src="./src/svg/${file}" width="24" height="24"> | ${filename} | ${toPascalCase(filename)}Icon |\r\n`;
 	});
 
 	fs.writeFileSync(`${__dirname}/icons.md`, content);
