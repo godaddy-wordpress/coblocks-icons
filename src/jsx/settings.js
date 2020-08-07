@@ -3,7 +3,7 @@
 // -- This is an auto-generated file. Do not edit.
 // --
 
-import { SVG, Path, G, Rect } from "@wordpress/primitives";
+import { SVG, Path } from '@wordpress/primitives';
 
 const settings = (
 	<SVG viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

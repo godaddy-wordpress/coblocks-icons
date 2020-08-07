@@ -3,13 +3,6 @@ const prettier = require("prettier");
 
 const svgDirectory = "src/svg/";
 const path = __dirname + "/src/";
-const contentToReplace = {
-	"<svg": "<SVG",
-	"svg>": "SVG>",
-	"<g": "<G",
-	"<path": "<Path",
-	"<rect": "<Rect",
-};
 const warningHeader = `// --
 // -- WARNING! 
 // -- This is an auto-generated file. Do not edit.
@@ -25,6 +18,7 @@ const init = () => {
 
 	files.forEach(createJSX);
 	createIndex(files);
+	createIconsMD(files);
 };
 
 /**
@@ -44,10 +38,13 @@ const createJSX = (file) => {
 		const fileName = file.replace(".svg", "");
 		const componentName = toCamelCase(fileName);
 
-		content = replaceAll(content, contentToReplace);
+		content = replacePrimitives(content);
+
+		const primitivesUsed = findPrimitives(content);
+		
 		content = `${warningHeader}
 	
-		import { SVG, Path, G, Rect } from '@wordpress/primitives';
+		import { ${primitivesUsed} } from '@wordpress/primitives';
 
 		const ${componentName} = (
 			${content}
@@ -56,6 +53,7 @@ const createJSX = (file) => {
 		export default ${componentName};`;
 
 		content = prettier.format(content, {
+			singleQuote: true,
 			useTabs: true,
 			tabWidth: 4,
 			parser: "babel",
@@ -88,17 +86,64 @@ createIndex = (files) => {
 };
 
 /**
- * Replace all occurences of 
+ * Create the Icons markdown file
+ *
+ * @param {array} files - An array of all the files
+ */
+createIconsMD = (files) => {
+	console.log(`Creating icons markdown file`);
+
+	let content = `# CoBlocks Icons
+	
+| Icon   | Name   | Component name   |
+| ------ | ------ | ---------------- |\r\n`;
+
+	files.forEach((file) => {
+		const filename = file.replace(".svg", "");
+
+		content =
+			content +
+			`| <img src="./src/svg/${file}" width=32> | ${filename} | ${toPascalCase(filename)}Icon |\r\n`;
+	});
+
+	fs.writeFileSync(`${__dirname}/icons.md`, content);
+};
+
+/**
+ * Replace primitives in SVG to match React imports
  *
  * @param {string} str - The content
- * @param {object} mapObj - The list of items to replace
  * @return {string} The new content with items replaced
  */
-const replaceAll = (str, mapObj) => {
-	const regx = new RegExp(Object.keys(mapObj).join("|"), "gi");
+const replacePrimitives = (str) => {
+	const primitivesToReplace = {
+		"<svg": "<SVG",
+		"svg>": "SVG>",
+		"<g": "<G",
+		"<path": "<Path",
+		"<rect": "<Rect",
+		"<circle": "<Circle",
+		"<polygon": "<Polygon",
+		"<defs": "<Defs"
+	};
+	const regx = new RegExp(Object.keys(primitivesToReplace).join("|"), "gi");
 
-	return str.replace(regx, (matched) => mapObj[matched]);
+	return str.replace(regx, (matched) => primitivesToReplace[matched]);
 };
+
+/**
+ * Find primitives inside content 
+ *
+ * @param {string} str - The content
+ * @return {string} Primitives used ready to used in an import statement
+ */
+findPrimitives = (content) => {
+	const primitives = ['SVG', 'Path', 'G', 'Rect', 'Circle', 'Polygon', 'Defs'];
+
+	return primitives
+		.filter((primitive) => content.indexOf(`<${primitive}`) != -1)
+		.join(', ');
+}
 
 /**
  * Write the file and write the required directories if needed

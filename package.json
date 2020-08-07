@@ -20,13 +20,13 @@
 		"@wordpress/primitives": "^1.7.0"
 	},
 	"devDependencies": {
-		"ncp": "^2.0.0",
+		"@wordpress/eslint-plugin": "^7.1.0",
 		"prettier": "^2.0.5",
 		"rimraf": "^3.0.2"
 	},
 	"scripts": {
 		"build": "node build.js",
 		"prepublish": "npm run clean && npm run build",
-		"clean": "rimraf ./dist"
+		"clean": "rimraf ./src/jsx"
 	}
 }
