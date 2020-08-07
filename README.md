@@ -2,12 +2,18 @@
 
 Repository of icons used inside of CoBlocks, ready to use either as a React Component or plain SVG file.
 
+## Install 
+
+```bash
+npm install @godaddy-wordpress/coblocks-icons
+```
+
 ## Usage
 
 ### Standalone
 
 ```js
-import { SettingsIcon } from 'coblocks-icons';
+import { SettingsIcon } from '@godaddy-wordpress/coblocks-icons
 
 return (
 	<div>{ SettingsIcon }</div>
@@ -18,7 +24,7 @@ return (
 
 ```js
 import { Icon } from '@wordpress/icons';
-import { SettingsIcon } from 'coblocks-icons';
+import { SettingsIcon } from '@godaddy-wordpress/coblocks-icons';
 
 return (
 	<Icon icon={ SettingsIcon } width={ 32 } height={ 32 } />
