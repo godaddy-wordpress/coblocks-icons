@@ -8,7 +8,10 @@
 | <img src="./src/svg/animation.svg" width="24" height="24"> | animation | AnimationIcon |
 | <img src="./src/svg/at.svg" width="24" height="24"> | at | AtIcon |
 | <img src="./src/svg/author.svg" width="24" height="24"> | author | AuthorIcon |
+| <img src="./src/svg/color-palette.svg" width="24" height="24"> | color-palette | ColorPaletteIcon |
 | <img src="./src/svg/column.svg" width="24" height="24"> | column | ColumnIcon |
+| <img src="./src/svg/content.svg" width="24" height="24"> | content | ContentIcon |
+| <img src="./src/svg/duplicate.svg" width="24" height="24"> | duplicate | DuplicateIcon |
 | <img src="./src/svg/dynamic-hr.svg" width="24" height="24"> | dynamic-hr | DynamicHrIcon |
 | <img src="./src/svg/events.svg" width="24" height="24"> | events | EventsIcon |
 | <img src="./src/svg/feature.svg" width="24" height="24"> | feature | FeatureIcon |
