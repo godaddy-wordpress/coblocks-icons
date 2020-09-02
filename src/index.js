@@ -66,3 +66,5 @@ export { default as SettingsIcon } from './library/settings';
 export { default as ShapeDividerIcon } from './library/shape-divider';
 export { default as ShareIcon } from './library/share';
 export { default as SocialProfilesIcon } from './library/social-profiles';
+export { default as TrashConfirmIcon } from './library/trash-confirm';
+export { default as TrashIcon } from './library/trash';

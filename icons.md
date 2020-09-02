@@ -65,3 +65,5 @@
 | <img src="./src/svg/shape-divider.svg" width="24" height="24"> | shape-divider | ShapeDividerIcon |
 | <img src="./src/svg/share.svg" width="24" height="24"> | share | ShareIcon |
 | <img src="./src/svg/social-profiles.svg" width="24" height="24"> | social-profiles | SocialProfilesIcon |
+| <img src="./src/svg/trash-confirm.svg" width="24" height="24"> | trash-confirm | TrashConfirmIcon |
+| <img src="./src/svg/trash.svg" width="24" height="24"> | trash | TrashIcon |
