@@ -5,6 +5,7 @@
 | <img src="./src/svg/accordion-item.svg" width="24" height="24"> | accordion-item | AccordionItemIcon |
 | <img src="./src/svg/accordion.svg" width="24" height="24"> | accordion | AccordionIcon |
 | <img src="./src/svg/alert.svg" width="24" height="24"> | alert | AlertIcon |
+| <img src="./src/svg/animation.svg" width="24" height="24"> | animation | AnimationIcon |
 | <img src="./src/svg/at.svg" width="24" height="24"> | at | AtIcon |
 | <img src="./src/svg/author.svg" width="24" height="24"> | author | AuthorIcon |
 | <img src="./src/svg/column.svg" width="24" height="24"> | column | ColumnIcon |
