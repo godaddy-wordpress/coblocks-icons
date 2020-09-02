@@ -27,7 +27,7 @@ import { Icon } from '@wordpress/icons';
 import { SettingsIcon } from '@godaddy-wordpress/coblocks-icons';
 
 return (
-	<Icon icon={ SettingsIcon } width={ 32 } height={ 32 } />
+	<Icon icon={ SettingsIcon } size={.32 } />
 )
 ```
 
