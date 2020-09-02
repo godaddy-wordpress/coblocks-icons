@@ -6,6 +6,7 @@
 export { default as AccordionItemIcon } from './library/accordion-item';
 export { default as AccordionIcon } from './library/accordion';
 export { default as AlertIcon } from './library/alert';
+export { default as AnimationIcon } from './library/animation';
 export { default as AtIcon } from './library/at';
 export { default as AuthorIcon } from './library/author';
 export { default as ColumnIcon } from './library/column';
