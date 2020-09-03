@@ -41,6 +41,8 @@ const createJSX = (file) => {
 		content = replacePrimitives(content);
 
 		const primitivesUsed = findPrimitives(content);
+
+		content = content.replace(/class\=\"/g, 'className="');
 		
 		content = `${warningHeader}
 	
