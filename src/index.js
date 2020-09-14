@@ -55,6 +55,7 @@ export { default as LogosIcon } from './library/logos';
 export { default as MapIcon } from './library/map';
 export { default as MediaCardIcon } from './library/media-card';
 export { default as OpenIcon } from './library/open';
+export { default as PaintCanIcon } from './library/paint-can';
 export { default as PostCarouselIcon } from './library/post-carousel';
 export { default as PostsIcon } from './library/posts';
 export { default as PricingTableItemIcon } from './library/pricing-table-item';
