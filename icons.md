@@ -54,6 +54,7 @@
 | <img src="./src/svg/logos.svg" width="24" height="24"> | logos | LogosIcon |
 | <img src="./src/svg/map.svg" width="24" height="24"> | map | MapIcon |
 | <img src="./src/svg/media-card.svg" width="24" height="24"> | media-card | MediaCardIcon |
+| <img src="./src/svg/multimedia.svg" width="24" height="24"> | multimedia | MultimediaIcon |
 | <img src="./src/svg/open.svg" width="24" height="24"> | open | OpenIcon |
 | <img src="./src/svg/paint-can.svg" width="24" height="24"> | paint-can | PaintCanIcon |
 | <img src="./src/svg/post-carousel.svg" width="24" height="24"> | post-carousel | PostCarouselIcon |
