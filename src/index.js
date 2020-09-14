@@ -70,3 +70,4 @@ export { default as SocialProfilesIcon } from './library/social-profiles';
 export { default as TrashConfirmIcon } from './library/trash-confirm';
 export { default as TrashIcon } from './library/trash';
 export { default as TwitterIcon } from './library/twitter';
+export { default as TypographyIcon } from './library/typography';

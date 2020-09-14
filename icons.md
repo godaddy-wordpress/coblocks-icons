@@ -69,3 +69,4 @@
 | <img src="./src/svg/trash-confirm.svg" width="24" height="24"> | trash-confirm | TrashConfirmIcon |
 | <img src="./src/svg/trash.svg" width="24" height="24"> | trash | TrashIcon |
 | <img src="./src/svg/twitter.svg" width="24" height="24"> | twitter | TwitterIcon |
+| <img src="./src/svg/typography.svg" width="24" height="24"> | typography | TypographyIcon |
