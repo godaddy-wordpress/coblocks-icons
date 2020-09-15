@@ -16,6 +16,7 @@
 | <img src="./src/svg/duplicate.svg" width="24" height="24"> | duplicate | DuplicateIcon |
 | <img src="./src/svg/dynamic-hr.svg" width="24" height="24"> | dynamic-hr | DynamicHrIcon |
 | <img src="./src/svg/events.svg" width="24" height="24"> | events | EventsIcon |
+| <img src="./src/svg/facebook.svg" width="24" height="24"> | facebook | FacebookIcon |
 | <img src="./src/svg/feature.svg" width="24" height="24"> | feature | FeatureIcon |
 | <img src="./src/svg/filter-dark.svg" width="24" height="24"> | filter-dark | FilterDarkIcon |
 | <img src="./src/svg/filter-grayscale.svg" width="24" height="24"> | filter-grayscale | FilterGrayscaleIcon |

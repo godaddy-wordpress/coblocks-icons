@@ -17,6 +17,7 @@ export { default as ContentIcon } from './library/content';
 export { default as DuplicateIcon } from './library/duplicate';
 export { default as DynamicHrIcon } from './library/dynamic-hr';
 export { default as EventsIcon } from './library/events';
+export { default as FacebookIcon } from './library/facebook';
 export { default as FeatureIcon } from './library/feature';
 export { default as FilterDarkIcon } from './library/filter-dark';
 export { default as FilterGrayscaleIcon } from './library/filter-grayscale';
