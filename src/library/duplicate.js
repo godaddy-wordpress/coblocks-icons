@@ -11,6 +11,7 @@ const duplicate = (
 			d="m19.75 8v10.7885c0 1.0833-.8794 1.9615-1.9656 1.9615-3.0519 0-8.97462 0-12.7844 0"
 			stroke="currentColor"
 			stroke-width="1.5"
+			fill="none"
 		/>
 		<Path
 			clip-rule="evenodd"

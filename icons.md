@@ -8,12 +8,15 @@
 | <img src="./src/svg/animation.svg" width="24" height="24"> | animation | AnimationIcon |
 | <img src="./src/svg/at.svg" width="24" height="24"> | at | AtIcon |
 | <img src="./src/svg/author.svg" width="24" height="24"> | author | AuthorIcon |
+| <img src="./src/svg/checklist.svg" width="24" height="24"> | checklist | ChecklistIcon |
+| <img src="./src/svg/coblocks.svg" width="24" height="24"> | coblocks | CoblocksIcon |
 | <img src="./src/svg/color-palette.svg" width="24" height="24"> | color-palette | ColorPaletteIcon |
 | <img src="./src/svg/column.svg" width="24" height="24"> | column | ColumnIcon |
 | <img src="./src/svg/content.svg" width="24" height="24"> | content | ContentIcon |
 | <img src="./src/svg/duplicate.svg" width="24" height="24"> | duplicate | DuplicateIcon |
 | <img src="./src/svg/dynamic-hr.svg" width="24" height="24"> | dynamic-hr | DynamicHrIcon |
 | <img src="./src/svg/events.svg" width="24" height="24"> | events | EventsIcon |
+| <img src="./src/svg/facebook.svg" width="24" height="24"> | facebook | FacebookIcon |
 | <img src="./src/svg/feature.svg" width="24" height="24"> | feature | FeatureIcon |
 | <img src="./src/svg/filter-dark.svg" width="24" height="24"> | filter-dark | FilterDarkIcon |
 | <img src="./src/svg/filter-grayscale.svg" width="24" height="24"> | filter-grayscale | FilterGrayscaleIcon |
@@ -53,7 +56,9 @@
 | <img src="./src/svg/logos.svg" width="24" height="24"> | logos | LogosIcon |
 | <img src="./src/svg/map.svg" width="24" height="24"> | map | MapIcon |
 | <img src="./src/svg/media-card.svg" width="24" height="24"> | media-card | MediaCardIcon |
+| <img src="./src/svg/multimedia.svg" width="24" height="24"> | multimedia | MultimediaIcon |
 | <img src="./src/svg/open.svg" width="24" height="24"> | open | OpenIcon |
+| <img src="./src/svg/paint-can.svg" width="24" height="24"> | paint-can | PaintCanIcon |
 | <img src="./src/svg/post-carousel.svg" width="24" height="24"> | post-carousel | PostCarouselIcon |
 | <img src="./src/svg/posts.svg" width="24" height="24"> | posts | PostsIcon |
 | <img src="./src/svg/pricing-table-item.svg" width="24" height="24"> | pricing-table-item | PricingTableItemIcon |
@@ -67,3 +72,5 @@
 | <img src="./src/svg/social-profiles.svg" width="24" height="24"> | social-profiles | SocialProfilesIcon |
 | <img src="./src/svg/trash-confirm.svg" width="24" height="24"> | trash-confirm | TrashConfirmIcon |
 | <img src="./src/svg/trash.svg" width="24" height="24"> | trash | TrashIcon |
+| <img src="./src/svg/twitter.svg" width="24" height="24"> | twitter | TwitterIcon |
+| <img src="./src/svg/typography.svg" width="24" height="24"> | typography | TypographyIcon |
