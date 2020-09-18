@@ -11,7 +11,7 @@ const galleryCarousel = (
 			height="14.5"
 			rx=".875"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 			width="14.5"
 			x="4.75"
 			y="4.75"
@@ -20,8 +20,8 @@ const galleryCarousel = (
 		<Path
 			d="m5.06667 14.6666 3.9619-2.1334 2.97143 1.4222 3.4667-2.4888 3.4666 2.4888"
 			stroke="currentColor"
-			stroke-linejoin="round"
-			stroke-width="1.5"
+			strokeLinejoin="round"
+			strokeWidth="1.5"
 			fill="none"
 		/>
 		<G fill="currentColor">

@@ -11,7 +11,7 @@ const author = (
 			d="m20 21v-3c0-1.1046-.8954-2-2-2h-12c-1.10457 0-2 .8954-2 2v3"
 			fill="none"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 		/>
 		<Circle cx="12" cy="8" fill="currentColor" r="5" />
 	</SVG>

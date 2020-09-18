@@ -10,13 +10,13 @@ const serviceItem = (
 		<Path
 			d="m4 20.25h16"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 			fill="none"
 		/>
 		<Path
 			d="m4 16.25h9"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 			fill="none"
 		/>
 		<Rect fill="currentColor" height="9" rx="2" width="16" x="4" y="4" />

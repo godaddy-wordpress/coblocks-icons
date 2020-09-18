@@ -127,7 +127,15 @@ const replacePrimitives = (str) => {
 		"<rect": "<Rect",
 		"<circle": "<Circle",
 		"<polygon": "<Polygon",
-		"<defs": "<Defs"
+		"<defs": "<Defs",
+		"stroke-width": "strokeWidth",
+		"fill-rule": "fillRule",
+		"clip-rule": "clipRule",
+		"stroke-linejoin": "strokeLinejoin",
+		"stroke-linecap": "strokeLinecap",
+		"tabindex": "tabIndex",
+		"datetime": "dateTime",
+		"stroke-width": "strokeWidth",
 	};
 	const regx = new RegExp(Object.keys(primitivesToReplace).join("|"), "gi");
 

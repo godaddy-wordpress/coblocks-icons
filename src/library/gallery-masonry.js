@@ -12,7 +12,7 @@ const galleryMasonry = (
 			height="13.5"
 			rx=".875"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 			width="13.5"
 			x="3.75"
 			y="3.75"
@@ -20,8 +20,8 @@ const galleryMasonry = (
 		<Path
 			d="m4 13 3.71429-2 2.78571 1.3333 3.25-2.3333 3.25 2.3333"
 			stroke="currentColor"
-			stroke-linejoin="round"
-			stroke-width="1.5"
+			strokeLinejoin="round"
+			strokeWidth="1.5"
 			fill="none"
 		/>
 		<G fill="currentColor">
