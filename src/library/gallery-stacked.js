@@ -11,7 +11,7 @@ const galleryStacked = (
 			height="13.5"
 			rx=".875"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 			width="16.5"
 			x="3.75"
 			y="3.75"
@@ -20,8 +20,8 @@ const galleryStacked = (
 		<Path
 			d="m4 13 4.5-2.5 3.5 1.8333 4-3.3333 4 3.3333"
 			stroke="currentColor"
-			stroke-linejoin="round"
-			stroke-width="1.5"
+			strokeLinejoin="round"
+			strokeWidth="1.5"
 			fill="none"
 		/>
 		<Path

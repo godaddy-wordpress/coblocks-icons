@@ -10,7 +10,7 @@ const share = (
 		<Path
 			d="m15.5 6-8 6 8 6"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 			fill="none"
 		/>
 		<G fill="currentColor">

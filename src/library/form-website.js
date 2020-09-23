@@ -12,7 +12,7 @@ const formWebsite = (
 			cy="12"
 			r="7.25"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 			fill="none"
 		/>
 		<Path

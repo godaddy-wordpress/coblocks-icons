@@ -11,7 +11,7 @@ const formCheckbox = (
 		<Path
 			d="m14.9586 9.09098-3.9304 5.28592-2.27901-1.6946"
 			stroke="#fff"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 		/>
 	</SVG>
 );

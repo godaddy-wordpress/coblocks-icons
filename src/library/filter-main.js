@@ -10,7 +10,7 @@ const filterMain = (
 		<Path
 			d="m9.94924 3.75h-5.19924c-.55228 0-1 .44772-1 1v14.5c0 .5523.44772 1 1 1h14.5313c.5523 0 1-.4477 1-1v-5.6458"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 			fill="none"
 		/>
 		<Path

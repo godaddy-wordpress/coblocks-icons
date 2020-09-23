@@ -12,7 +12,7 @@ const formRadio = (
 			cy="12"
 			r="7.25"
 			stroke="currentColor"
-			stroke-width="1.5"
+			strokeWidth="1.5"
 			fill="none"
 		/>
 		<Circle cx="12" cy="12" fill="currentColor" r="4" />
