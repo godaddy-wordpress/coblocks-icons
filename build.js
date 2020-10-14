@@ -136,6 +136,7 @@ const replacePrimitives = (str) => {
 		"tabindex": "tabIndex",
 		"datetime": "dateTime",
 		"stroke-width": "strokeWidth",
+		"enable-background": "enableBackground",
 	};
 	const regx = new RegExp(Object.keys(primitivesToReplace).join("|"), "gi");
 
