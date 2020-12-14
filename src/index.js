@@ -14,6 +14,7 @@ export { default as CoblocksIcon } from './library/coblocks';
 export { default as ColorPaletteIcon } from './library/color-palette';
 export { default as ColumnIcon } from './library/column';
 export { default as ContentIcon } from './library/content';
+export { default as CustomTypographyIcon } from './library/custom-typography';
 export { default as DuplicateIcon } from './library/duplicate';
 export { default as DynamicHrIcon } from './library/dynamic-hr';
 export { default as EventsIcon } from './library/events';
