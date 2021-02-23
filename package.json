@@ -33,7 +33,7 @@
 	"scripts": {
 		"compile": "babel src --out-dir build",
 		"build": "node build.js && npm run compile",
-		"prepublish": "npm run clean && npm run build && git push --tags",
+		"prepublishOnly": "npm run clean && npm run build && git push --tags",
 		"clean": "rimraf ./src/jsx"
 	}
 }
