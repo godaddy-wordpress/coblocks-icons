@@ -59,6 +59,8 @@
 | <img src="./src/svg/media-card.svg" width="24" height="24"> | media-card | MediaCardIcon |
 | <img src="./src/svg/multimedia.svg" width="24" height="24"> | multimedia | MultimediaIcon |
 | <img src="./src/svg/open.svg" width="24" height="24"> | open | OpenIcon |
+| <img src="./src/svg/page-duplicate.svg" width="24" height="24"> | page-duplicate | PageDuplicateIcon |
+| <img src="./src/svg/page.svg" width="24" height="24"> | page | PageIcon |
 | <img src="./src/svg/paint-can.svg" width="24" height="24"> | paint-can | PaintCanIcon |
 | <img src="./src/svg/post-carousel.svg" width="24" height="24"> | post-carousel | PostCarouselIcon |
 | <img src="./src/svg/posts.svg" width="24" height="24"> | posts | PostsIcon |
