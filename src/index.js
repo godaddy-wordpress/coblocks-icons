@@ -60,6 +60,8 @@ export { default as MapIcon } from './library/map';
 export { default as MediaCardIcon } from './library/media-card';
 export { default as MultimediaIcon } from './library/multimedia';
 export { default as OpenIcon } from './library/open';
+export { default as PageDuplicateIcon } from './library/page-duplicate';
+export { default as PageIcon } from './library/page';
 export { default as PaintCanIcon } from './library/paint-can';
 export { default as PostCarouselIcon } from './library/post-carousel';
 export { default as PostsIcon } from './library/posts';
