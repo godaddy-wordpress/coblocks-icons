@@ -2,6 +2,8 @@
 
 Repository of icons used inside of CoBlocks, ready to use either as a React Component or plain SVG file.
 
+See the [complete list](icons.md).
+
 ## Install 
 
 ```bash
@@ -31,6 +33,11 @@ return (
 )
 ```
 
-## Available icons
+## How to deploy
 
-See the [complete list](icons.md).
+```bash
+npm version minor
+git push
+git push --tags
+npm publish
+```
