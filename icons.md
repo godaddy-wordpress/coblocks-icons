@@ -14,6 +14,7 @@
 | <img src="./src/svg/column.svg" width="24" height="24"> | column | ColumnIcon |
 | <img src="./src/svg/content.svg" width="24" height="24"> | content | ContentIcon |
 | <img src="./src/svg/custom-typography.svg" width="24" height="24"> | custom-typography | CustomTypographyIcon |
+| <img src="./src/svg/desktop.svg" width="24" height="24"> | desktop | DesktopIcon |
 | <img src="./src/svg/duplicate.svg" width="24" height="24"> | duplicate | DuplicateIcon |
 | <img src="./src/svg/dynamic-hr.svg" width="24" height="24"> | dynamic-hr | DynamicHrIcon |
 | <img src="./src/svg/event-item.svg" width="24" height="24"> | event-item | EventItemIcon |
@@ -58,6 +59,7 @@
 | <img src="./src/svg/logos.svg" width="24" height="24"> | logos | LogosIcon |
 | <img src="./src/svg/map.svg" width="24" height="24"> | map | MapIcon |
 | <img src="./src/svg/media-card.svg" width="24" height="24"> | media-card | MediaCardIcon |
+| <img src="./src/svg/mobile.svg" width="24" height="24"> | mobile | MobileIcon |
 | <img src="./src/svg/multimedia.svg" width="24" height="24"> | multimedia | MultimediaIcon |
 | <img src="./src/svg/open.svg" width="24" height="24"> | open | OpenIcon |
 | <img src="./src/svg/opentable.svg" width="24" height="24"> | opentable | OpentableIcon |
@@ -75,6 +77,8 @@
 | <img src="./src/svg/shape-divider.svg" width="24" height="24"> | shape-divider | ShapeDividerIcon |
 | <img src="./src/svg/share.svg" width="24" height="24"> | share | ShareIcon |
 | <img src="./src/svg/social-profiles.svg" width="24" height="24"> | social-profiles | SocialProfilesIcon |
+| <img src="./src/svg/sync.svg" width="24" height="24"> | sync | SyncIcon |
+| <img src="./src/svg/tablet.svg" width="24" height="24"> | tablet | TabletIcon |
 | <img src="./src/svg/trash-confirm.svg" width="24" height="24"> | trash-confirm | TrashConfirmIcon |
 | <img src="./src/svg/trash.svg" width="24" height="24"> | trash | TrashIcon |
 | <img src="./src/svg/twitter.svg" width="24" height="24"> | twitter | TwitterIcon |
