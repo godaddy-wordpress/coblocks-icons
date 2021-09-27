@@ -9,3 +9,4 @@ This list is manually curated to include valuable contributions by volunteers th
 | @richtabor      | @richtabor             |
 | @jasonlemay     | @jasonlemay            |
 | @jonathanbardo  | @jonathanbardo         |
+| @evanherman     | @eherman24             |
