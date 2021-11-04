@@ -21,6 +21,7 @@
 | <img src="./src/svg/event-item.svg" width="24" height="24"> | event-item | EventItemIcon |
 | <img src="./src/svg/events.svg" width="24" height="24"> | events | EventsIcon |
 | <img src="./src/svg/facebook.svg" width="24" height="24"> | facebook | FacebookIcon |
+| <img src="./src/svg/faq.svg" width="24" height="24"> | faq | FaqIcon |
 | <img src="./src/svg/feature.svg" width="24" height="24"> | feature | FeatureIcon |
 | <img src="./src/svg/filter-dark.svg" width="24" height="24"> | filter-dark | FilterDarkIcon |
 | <img src="./src/svg/filter-grayscale.svg" width="24" height="24"> | filter-grayscale | FilterGrayscaleIcon |
