@@ -6,7 +6,7 @@
 import { SVG, Path, G, Rect } from '@wordpress/primitives';
 
 const filterGrayscale = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Rect
 			height="16.5"
 			rx="1.53571"

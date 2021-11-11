@@ -8,8 +8,10 @@
 | <img src="./src/svg/animation.svg" width="24" height="24"> | animation | AnimationIcon |
 | <img src="./src/svg/at.svg" width="24" height="24"> | at | AtIcon |
 | <img src="./src/svg/author.svg" width="24" height="24"> | author | AuthorIcon |
+| <img src="./src/svg/calendar.svg" width="24" height="24"> | calendar | CalendarIcon |
 | <img src="./src/svg/caret.svg" width="24" height="24"> | caret | CaretIcon |
 | <img src="./src/svg/checklist.svg" width="24" height="24"> | checklist | ChecklistIcon |
+| <img src="./src/svg/checkmark-circle.svg" width="24" height="24"> | checkmark-circle | CheckmarkCircleIcon |
 | <img src="./src/svg/coblocks.svg" width="24" height="24"> | coblocks | CoblocksIcon |
 | <img src="./src/svg/color-palette.svg" width="24" height="24"> | color-palette | ColorPaletteIcon |
 | <img src="./src/svg/column.svg" width="24" height="24"> | column | ColumnIcon |
@@ -72,6 +74,7 @@
 | <img src="./src/svg/posts.svg" width="24" height="24"> | posts | PostsIcon |
 | <img src="./src/svg/pricing-table-item.svg" width="24" height="24"> | pricing-table-item | PricingTableItemIcon |
 | <img src="./src/svg/pricing-table.svg" width="24" height="24"> | pricing-table | PricingTableIcon |
+| <img src="./src/svg/request.svg" width="24" height="24"> | request | RequestIcon |
 | <img src="./src/svg/row.svg" width="24" height="24"> | row | RowIcon |
 | <img src="./src/svg/service-item.svg" width="24" height="24"> | service-item | ServiceItemIcon |
 | <img src="./src/svg/services.svg" width="24" height="24"> | services | ServicesIcon |

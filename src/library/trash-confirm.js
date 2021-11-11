@@ -6,7 +6,7 @@
 import { SVG, Path, G } from '@wordpress/primitives';
 
 const trashConfirm = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Path
 			d="m7.34532 7.19644c.03127-.69843.67672-1.20533 1.36267-1.07017l8.89421 1.75261c.6859.13516 1.0908.84904.8547 1.50713l-3.8044 10.60739c-.1909.5322-.7422.8448-1.2968.7355l-5.59369-1.1022c-.55466-.1093-.94606-.6077-.92076-1.1725z"
 			stroke="currentColor"
