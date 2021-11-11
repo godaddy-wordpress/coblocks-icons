@@ -6,7 +6,7 @@
 import { SVG, Path, Circle } from '@wordpress/primitives';
 
 const formWebsite = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Circle
 			cx="12"
 			cy="12"

@@ -6,7 +6,7 @@
 import { SVG, Path, Circle } from '@wordpress/primitives';
 
 const socialProfiles = (
-	<SVG fill="none" view-box="0 0 24 25" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 25" xmlns="http://www.w3.org/2000/svg">
 		<Path
 			fill="none"
 			d="m12.5 17v-2c0-1.1046-.8954-2-2-2h-4c-1.10457 0-2 .8954-2 2v2"

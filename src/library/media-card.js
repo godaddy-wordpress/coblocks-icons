@@ -6,7 +6,7 @@
 import { SVG, Path, Rect } from '@wordpress/primitives';
 
 const mediaCard = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Path
 			d="m15.75 18v1.75c0 .5523-.4477 1-1 1h-10c-.55228 0-1-.4477-1-1v-15c0-.55228.44772-1 1-1h10c.5523 0 1 .44959 1 1.00188 0 2.11305 0 1.45031 0 1.24812"
 			stroke="currentColor"

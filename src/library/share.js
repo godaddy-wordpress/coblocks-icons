@@ -6,7 +6,7 @@
 import { SVG, Path, G, Rect } from '@wordpress/primitives';
 
 const share = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Path
 			d="m15.5 6-8 6 8 6"
 			stroke="currentColor"

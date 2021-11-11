@@ -6,7 +6,7 @@
 import { SVG, Path } from '@wordpress/primitives';
 
 const duplicate = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Path
 			d="m19.75 8v10.7885c0 1.0833-.8794 1.9615-1.9656 1.9615-3.0519 0-8.97462 0-12.7844 0"
 			stroke="currentColor"

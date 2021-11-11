@@ -6,7 +6,7 @@
 import { SVG, Path } from '@wordpress/primitives';
 
 const filterMain = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Path
 			d="m9.94924 3.75h-5.19924c-.55228 0-1 .44772-1 1v14.5c0 .5523.44772 1 1 1h14.5313c.5523 0 1-.4477 1-1v-5.6458"
 			stroke="currentColor"

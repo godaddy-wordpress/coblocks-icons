@@ -6,7 +6,7 @@
 import { SVG, Path, G } from '@wordpress/primitives';
 
 const flipHorizontal = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<G fill="currentColor">
 			<Path d="m5.5 18v-12c0-.27614.22386-.5.5-.5h3v-1.5h-3c-1.10457 0-2 .89543-2 2v12c0 1.1046.89543 2 2 2h3v-1.5h-3c-.27614 0-.5-.2239-.5-.5z" />
 			<Path d="m13 2v20h-2v-20z" />

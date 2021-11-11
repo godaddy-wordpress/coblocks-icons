@@ -6,7 +6,7 @@
 import { SVG, Path } from '@wordpress/primitives';
 
 const open = (
-	<SVG view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Path
 			d="m8.5 8.5 3.5-3.5 3.5 3.5"
 			stroke="currentColor"

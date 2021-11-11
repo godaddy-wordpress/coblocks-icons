@@ -6,7 +6,7 @@
 import { SVG, Path, Rect } from '@wordpress/primitives';
 
 const serviceItem = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Path
 			d="m4 20.25h16"
 			stroke="currentColor"

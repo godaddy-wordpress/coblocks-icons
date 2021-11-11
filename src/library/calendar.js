@@ -5,15 +5,13 @@
 
 import { SVG, Path } from '@wordpress/primitives';
 
-const caret = (
+const calendar = (
 	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<Path
+			d="m22 4h-1v-2h-2v2h-14v-2h-2v2h-1c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2v-16c0-1.1-.9-2-2-2zm0 18h-20v-11h20zm0-13h-20v-3h20zm-18 4h4v4h-4z"
 			fill="currentColor"
-			fillRule="evenodd"
-			clipRule="evenodd"
-			d="M19.39 14.99l-1.41 1.41L12 10.43 6.02 16.4l-1.41-1.41L12 7.6l7.39 7.39z"
 		/>
 	</SVG>
 );
 
-export default caret;
+export default calendar;

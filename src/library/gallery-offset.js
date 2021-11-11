@@ -6,7 +6,7 @@
 import { SVG, Path, G, Rect } from '@wordpress/primitives';
 
 const galleryOffset = (
-	<SVG fill="none" view-box="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+	<SVG fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 		<G stroke="currentColor" strokeWidth="1.5" fill="none">
 			<Path d="m20.75 21.75v-1c0-.5523-.4477-1-1-1h-5c-.5523 0-1 .4477-1 1v1" />
 			<Path d="m10.25 21.75v-1c0-.5523-.44772-1-1-1h-5c-.55228 0-1 .4477-1 1v1" />
