@@ -84,6 +84,7 @@
 | <img src="./src/svg/social-profiles.svg" width="24" height="24"> | social-profiles | SocialProfilesIcon |
 | <img src="./src/svg/sync.svg" width="24" height="24"> | sync | SyncIcon |
 | <img src="./src/svg/tablet.svg" width="24" height="24"> | tablet | TabletIcon |
+| <img src="./src/svg/timer.svg" width="24" height="24"> | timer | TimerIcon |
 | <img src="./src/svg/trash-confirm.svg" width="24" height="24"> | trash-confirm | TrashConfirmIcon |
 | <img src="./src/svg/trash.svg" width="24" height="24"> | trash | TrashIcon |
 | <img src="./src/svg/twitter.svg" width="24" height="24"> | twitter | TwitterIcon |
