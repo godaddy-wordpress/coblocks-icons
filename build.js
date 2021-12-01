@@ -4,7 +4,7 @@ const prettier = require("prettier");
 const svgDirectory = "src/svg/";
 const path = __dirname + "/src/";
 const warningHeader = `// --
-// -- WARNING! 
+// -- WARNING!
 // -- This is an auto-generated file. Do not edit.
 // --`;
 
@@ -43,9 +43,9 @@ const createJSX = (file) => {
 		const primitivesUsed = findPrimitives(content);
 
 		content = content.replace(/class\=\"/g, 'className="');
-		
+
 		content = `${warningHeader}
-	
+
 		import { ${primitivesUsed} } from '@wordpress/primitives';
 
 		const ${componentName} = (
@@ -96,7 +96,7 @@ createIconsMD = (files) => {
 	console.log(`Creating icons markdown file`);
 
 	let content = `# CoBlocks Icons
-	
+
 | Icon   | Name   | Component name   |
 | ------ | ------ | ---------------- |\r\n`;
 
@@ -143,7 +143,7 @@ const replacePrimitives = (str) => {
 };
 
 /**
- * Find primitives inside content 
+ * Find primitives inside content
  *
  * @param {string} str - The content
  * @return {string} Primitives used ready to used in an import statement

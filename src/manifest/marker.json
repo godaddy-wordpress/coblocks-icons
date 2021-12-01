@@ -1,0 +1,17 @@
+{
+	"label": "Marker",
+
+	"keywords": [
+		"check",
+		"directions",
+		"location",
+		"map",
+		"pin",
+		"verified"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

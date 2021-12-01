@@ -1,0 +1,15 @@
+{
+	"label": "Typography",
+
+	"keywords": [
+		"letter",
+		"underline",
+		"text",
+		"typo"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

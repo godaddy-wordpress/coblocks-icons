@@ -1,5 +1,5 @@
 # CoBlocks Icons
-	
+
 | Icon   | Name   | Component name   |
 | ------ | ------ | ---------------- |
 | <img src="./src/svg/accordion-item.svg" width="24" height="24"> | accordion-item | AccordionItemIcon |
@@ -88,4 +88,5 @@
 | <img src="./src/svg/trash-confirm.svg" width="24" height="24"> | trash-confirm | TrashConfirmIcon |
 | <img src="./src/svg/trash.svg" width="24" height="24"> | trash | TrashIcon |
 | <img src="./src/svg/twitter.svg" width="24" height="24"> | twitter | TwitterIcon |
+| <img src="./src/svg/typography-outlined.svg" width="24" height="24"> | typography-outlined | TypographyOutlinedIcon |
 | <img src="./src/svg/typography.svg" width="24" height="24"> | typography | TypographyIcon |

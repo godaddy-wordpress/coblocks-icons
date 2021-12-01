@@ -1,0 +1,17 @@
+{
+	"label": "Gallery",
+
+	"keywords": [
+		"aperture",
+		"camera",
+		"collection",
+		"image",
+		"media",
+		"photos"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}
