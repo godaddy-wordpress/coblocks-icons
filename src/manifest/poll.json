@@ -1,0 +1,19 @@
+{
+	"label": "Poll",
+
+	"keywords": [
+		"analytics",
+		"chart",
+		"data",
+		"graph",
+		"square",
+		"stats",
+		"survey",
+		"vote"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

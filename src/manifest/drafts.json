@@ -1,0 +1,16 @@
+{
+	"label": "Email",
+
+	"keywords": [
+		"letter",
+		"mail",
+		"message",
+		"open",
+		"read"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

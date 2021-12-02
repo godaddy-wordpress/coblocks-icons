@@ -1,0 +1,15 @@
+{
+	"label": "Cards",
+
+	"keywords": [
+		"games",
+		"layers",
+		"shuffle",
+		"stack"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

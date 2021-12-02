@@ -1,0 +1,20 @@
+{
+	"label": "New",
+
+	"keywords": [
+		"alert",
+		"badge",
+		"exclamation mark",
+		"important",
+		"info",
+		"notice",
+		"notification",
+		"sticker",
+		"warning"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

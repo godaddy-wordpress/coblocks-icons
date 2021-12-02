@@ -1,0 +1,17 @@
+{
+	"label": "Diagram",
+
+	"keywords": [
+		"blueprint",
+		"flowchart",
+		"hierarchy",
+		"layout",
+		"map",
+		"sitemap"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"label": "Scatter Plot",
+
+	"keywords": [
+		"analytics",
+		"chart",
+		"circle",
+		"data",
+		"dots",
+		"graph",
+		"random",
+		"stats"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"label": "Face",
+
+	"keywords": [
+		"eyes",
+		"friendly",
+		"happy",
+		"hair",
+		"head",
+		"human",
+		"person",
+		"user"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

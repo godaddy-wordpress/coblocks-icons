@@ -1,0 +1,15 @@
+{
+	"label": "Ticket",
+
+	"keywords": [
+		"admission",
+		"coupon",
+		"receipt",
+		"voucher"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

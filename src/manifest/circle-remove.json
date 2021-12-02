@@ -1,0 +1,17 @@
+{
+	"label": "Substract Circle",
+
+	"keywords": [
+		"remove",
+		"circle",
+		"insert",
+		"delete",
+		"math",
+		"minus"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

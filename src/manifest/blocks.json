@@ -1,0 +1,16 @@
+{
+	"label": "Blocks",
+
+	"keywords": [
+		"boxes",
+		"build",
+		"square",
+		"stack",
+		"widgets"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}
