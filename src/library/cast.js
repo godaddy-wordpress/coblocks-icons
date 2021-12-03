@@ -10,20 +10,27 @@ const icon = {
 		default: (
 			<SVG
 				fill="none"
-				viewBox="0 0 24 24"
 				xmlns="http://www.w3.org/2000/svg"
+				viewBox="0 0 24 24"
 			>
 				<Path
-					d="m19 9c0-.27614-.2239-.5-.5-.5h-13c-.27614 0-.5.22386-.5.5v7.5c0 .2761.22386.5.5.5h13c.2761 0 .5-.2239.5-.5zm-13.875-3.5c-.89746 0-1.625.72754-1.625 1.625v9.75c0 .8975.72754 1.625 1.625 1.625h13.75c.8975 0 1.625-.7275 1.625-1.625v-9.75c0-.89746-.7275-1.625-1.625-1.625z"
+					d="M21 3H3c-1.1 0-2 .9-2 2v3h2V5h18v14h-7v2h7c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM1 18v3h3c0-1.66-1.34-3-3-3zm0-4v2c2.76 0 5 2.24 5 5h2c0-3.87-3.13-7-7-7zm0-4v2c4.97 0 9 4.03 9 9h2c0-6.08-4.93-11-11-11z"
 					fill="currentColor"
-					fillRule="evenodd"
 				/>
 			</SVG>
 		),
 	},
 	meta: {
-		label: 'Accordion Item',
-		keywords: ['keyword'],
+		label: 'Cast',
+		keywords: [
+			'broadcast',
+			'chromecast',
+			'screen',
+			'television',
+			'tv',
+			'video',
+			'vodcast',
+		],
 	},
 };
 

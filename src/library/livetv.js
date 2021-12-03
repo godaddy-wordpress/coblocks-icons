@@ -10,20 +10,26 @@ const icon = {
 		default: (
 			<SVG
 				fill="none"
-				viewBox="0 0 24 24"
 				xmlns="http://www.w3.org/2000/svg"
+				viewBox="0 0 24 24"
 			>
 				<Path
-					d="m19 9c0-.27614-.2239-.5-.5-.5h-13c-.27614 0-.5.22386-.5.5v7.5c0 .2761.22386.5.5.5h13c.2761 0 .5-.2239.5-.5zm-13.875-3.5c-.89746 0-1.625.72754-1.625 1.625v9.75c0 .8975.72754 1.625 1.625 1.625h13.75c.8975 0 1.625-.7275 1.625-1.625v-9.75c0-.89746-.7275-1.625-1.625-1.625z"
+					d="M21 6h-7.59l3.29-3.29L16 2l-4 4-4-4-.71.71L10.59 6H3c-1.1 0-2 .89-2 2v12c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.11-.9-2-2-2zm0 14H3V8h18v12zM9 10v8l7-4z"
 					fill="currentColor"
-					fillRule="evenodd"
 				/>
 			</SVG>
 		),
 	},
 	meta: {
-		label: 'Accordion Item',
-		keywords: ['keyword'],
+		label: 'Live TV',
+		keywords: [
+			'broadcast',
+			'livestream',
+			'media',
+			'television',
+			'video',
+			'youtube',
+		],
 	},
 };
 

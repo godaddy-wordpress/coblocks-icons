@@ -10,20 +10,28 @@ const icon = {
 		default: (
 			<SVG
 				fill="none"
-				viewBox="0 0 24 24"
+				viewBox="0 0 20 20"
 				xmlns="http://www.w3.org/2000/svg"
 			>
 				<Path
-					d="m19 9c0-.27614-.2239-.5-.5-.5h-13c-.27614 0-.5.22386-.5.5v7.5c0 .2761.22386.5.5.5h13c.2761 0 .5-.2239.5-.5zm-13.875-3.5c-.89746 0-1.625.72754-1.625 1.625v9.75c0 .8975.72754 1.625 1.625 1.625h13.75c.8975 0 1.625-.7275 1.625-1.625v-9.75c0-.89746-.7275-1.625-1.625-1.625z"
+					d="m18 2h-16c-1.11 0-1.99.89-1.99 2l-.01 12c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2v-12c0-1.11-.89-2-2-2zm0 14h-16v-6h16zm0-10h-16v-2h16z"
 					fill="currentColor"
-					fillRule="evenodd"
 				/>
 			</SVG>
 		),
 	},
 	meta: {
-		label: 'Accordion Item',
-		keywords: ['keyword'],
+		label: 'Credit Card',
+		keywords: [
+			'cash',
+			'checkout',
+			'commerce',
+			'ecommerce',
+			'money',
+			'payment',
+			'shop',
+			'store',
+		],
 	},
 };
 

@@ -10,20 +10,38 @@ const icon = {
 		default: (
 			<SVG
 				fill="none"
-				viewBox="0 0 24 24"
 				xmlns="http://www.w3.org/2000/svg"
+				viewBox="0 0 24 24"
 			>
 				<Path
-					d="m19 9c0-.27614-.2239-.5-.5-.5h-13c-.27614 0-.5.22386-.5.5v7.5c0 .2761.22386.5.5.5h13c.2761 0 .5-.2239.5-.5zm-13.875-3.5c-.89746 0-1.625.72754-1.625 1.625v9.75c0 .8975.72754 1.625 1.625 1.625h13.75c.8975 0 1.625-.7275 1.625-1.625v-9.75c0-.89746-.7275-1.625-1.625-1.625z"
+					d="M22 11V3h-7v3H9V3H2v8h7V8h2v10h4v3h7v-8h-7v3h-2V8h2v3z"
 					fill="currentColor"
-					fillRule="evenodd"
+				/>
+			</SVG>
+		),
+		outlined: (
+			<SVG
+				fill="none"
+				xmlns="http://www.w3.org/2000/svg"
+				viewBox="0 0 24 24"
+			>
+				<Path
+					d="M22,11V3h-7v3H9V3H2v8h7V8h2v10h4v3h7v-8h-7v3h-2V8h2v3H22z M7,9H4V5h3V9z M17,15h3v4h-3V15z M17,5h3v4h-3V5z"
+					fill="currentColor"
 				/>
 			</SVG>
 		),
 	},
 	meta: {
-		label: 'Accordion Item',
-		keywords: ['keyword'],
+		label: 'Diagram',
+		keywords: [
+			'blueprint',
+			'flowchart',
+			'hierarchy',
+			'layout',
+			'map',
+			'sitemap',
+		],
 	},
 };
 
