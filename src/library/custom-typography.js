@@ -24,7 +24,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Custom typography',
-		keywords: ['keyword'],
+		keywords: ['alphabet', 'letter', 'text'],
 	},
 };
 

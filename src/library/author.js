@@ -25,7 +25,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Author',
-		keywords: ['keyword'],
+		keywords: ['head', 'human', 'people', 'person'],
 	},
 };
 

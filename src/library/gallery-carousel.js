@@ -39,7 +39,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Gallery - Carousel',
-		keywords: ['keyword'],
+		keywords: ['display', 'mountains'],
 	},
 };
 

@@ -18,7 +18,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Desktop',
-		keywords: ['keyword'],
+		keywords: ['square', 'window'],
 	},
 };
 

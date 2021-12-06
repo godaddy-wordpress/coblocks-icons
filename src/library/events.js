@@ -33,7 +33,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Events',
-		keywords: ['keyword'],
+		keywords: ['calendar', 'date', 'day', 'month', 'schedule', 'time'],
 	},
 };
 

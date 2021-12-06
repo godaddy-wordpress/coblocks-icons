@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Hidden',
-		keywords: ['keyword'],
+		keywords: ['eye', 'secret'],
 	},
 };
 

@@ -28,7 +28,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Event item',
-		keywords: ['keyword'],
+		keywords: ['calendar', 'date', 'day', 'month', 'time'],
 	},
 };
 

@@ -35,7 +35,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Hero',
-		keywords: ['keyword'],
+		keywords: ['display'],
 	},
 };
 

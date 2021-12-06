@@ -2,7 +2,11 @@
 	"label": "Alert",
 
 	"keywords": [
-		"keyword"
+		"bell",
+		"danger",
+		"ring",
+		"sound",
+		"warning"
 	],
 
 	"styles": [

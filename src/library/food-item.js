@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Food item',
-		keywords: ['keyword'],
+		keywords: ['eat', 'restaurant', 'tomato', 'vegetable'],
 	},
 };
 

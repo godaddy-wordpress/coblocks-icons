@@ -34,7 +34,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Filter - Dark',
-		keywords: ['keyword'],
+		keywords: ['moon', 'night'],
 	},
 };
 

@@ -22,7 +22,15 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Email',
-		keywords: ['keyword'],
+		keywords: [
+			'at sign',
+			'email',
+			'letter',
+			'mail',
+			'mention',
+			'message',
+			'symbol',
+		],
 	},
 };
 

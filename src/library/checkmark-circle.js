@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Checkmark circle',
-		keywords: ['keyword'],
+		keywords: ['check', 'confirm', 'done', 'okay'],
 	},
 };
 

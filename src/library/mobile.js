@@ -18,7 +18,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Mobile',
-		keywords: ['keyword'],
+		keywords: ['call', 'number', 'phone', 'tablet'],
 	},
 };
 

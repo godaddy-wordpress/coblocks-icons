@@ -2,7 +2,9 @@
 	"label": "Column",
 
 	"keywords": [
-		"keyword"
+		"divider",
+		"middle",
+		"separator"
 	],
 
 	"styles": [

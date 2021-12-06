@@ -26,7 +26,7 @@ const icon = {
 	},
 	meta: {
 		label: 'FAQ',
-		keywords: ['keyword'],
+		keywords: ['answer', 'frequently asked questions', 'question'],
 	},
 };
 

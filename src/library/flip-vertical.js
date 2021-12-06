@@ -29,7 +29,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Flip vertical',
-		keywords: ['keyword'],
+		keywords: ['divider', 'flip', 'separator'],
 	},
 };
 

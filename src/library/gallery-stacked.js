@@ -39,7 +39,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Gallery - Stacked',
-		keywords: ['keyword'],
+		keywords: ['display', 'mountains'],
 	},
 };
 

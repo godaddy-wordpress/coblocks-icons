@@ -30,7 +30,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Icon',
-		keywords: ['keyword'],
+		keywords: ['arrow', 'd-pad', 'direction', 'pad'],
 	},
 };
 

@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Calendar',
-		keywords: ['keyword'],
+		keywords: ['date', 'day', 'month', 'time'],
 	},
 };
 

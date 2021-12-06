@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Select',
-		keywords: ['keyword'],
+		keywords: ['collapse', 'dropdown', 'option'],
 	},
 };
 

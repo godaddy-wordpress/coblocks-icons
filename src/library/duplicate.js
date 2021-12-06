@@ -30,7 +30,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Duplicate',
-		keywords: ['keyword'],
+		keywords: ['copy', 'paper', 'text'],
 	},
 };
 

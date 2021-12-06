@@ -25,7 +25,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Column',
-		keywords: ['keyword'],
+		keywords: ['divider', 'middle', 'separator'],
 	},
 };
 

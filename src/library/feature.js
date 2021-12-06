@@ -31,7 +31,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Feature',
-		keywords: ['keyword'],
+		keywords: ['list', 'pointer', 'stack'],
 	},
 };
 

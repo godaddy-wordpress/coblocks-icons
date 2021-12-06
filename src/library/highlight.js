@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Highlight',
-		keywords: ['keyword'],
+		keywords: ['annotate', 'pen', 'trace', 'underline', 'write'],
 	},
 };
 

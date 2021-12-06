@@ -40,7 +40,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Gallery - Masonry',
-		keywords: ['keyword'],
+		keywords: ['display', 'mountains'],
 	},
 };
 

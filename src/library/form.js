@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form',
-		keywords: ['keyword'],
+		keywords: ['envelope', 'write'],
 	},
 };
 

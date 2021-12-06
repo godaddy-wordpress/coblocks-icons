@@ -32,7 +32,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Media card',
-		keywords: ['keyword'],
+		keywords: ['square'],
 	},
 };
 

@@ -29,7 +29,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Phone',
-		keywords: ['keyword'],
+		keywords: ['call', 'mobile', 'number', 'tablet'],
 	},
 };
 

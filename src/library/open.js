@@ -27,7 +27,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Open',
-		keywords: ['keyword'],
+		keywords: ['arrows', 'down', 'up', 'vertical'],
 	},
 };
 

@@ -24,7 +24,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Facebook',
-		keywords: ['keyword'],
+		keywords: ['media', 'share', 'social'],
 	},
 };
 

@@ -29,7 +29,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Grid position',
-		keywords: ['keyword'],
+		keywords: ['align', 'centered', 'dots', 'position'],
 	},
 };
 

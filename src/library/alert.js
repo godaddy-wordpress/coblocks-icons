@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Alert',
-		keywords: ['keyword'],
+		keywords: ['bell', 'danger', 'ring', 'sound', 'warning'],
 	},
 };
 

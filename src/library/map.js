@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Map',
-		keywords: ['keyword'],
+		keywords: ['location', 'marker', 'position', 'world'],
 	},
 };
 

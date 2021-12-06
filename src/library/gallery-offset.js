@@ -33,7 +33,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Gallery - Offset',
-		keywords: ['keyword'],
+		keywords: ['display', 'mountains'],
 	},
 };
 

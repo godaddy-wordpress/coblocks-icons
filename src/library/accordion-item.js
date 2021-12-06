@@ -23,7 +23,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Accordion Item',
-		keywords: ['keyword'],
+		keywords: ['interface', 'modal', 'window'],
 	},
 };
 

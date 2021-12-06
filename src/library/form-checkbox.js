@@ -24,7 +24,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Checkbox',
-		keywords: ['keyword'],
+		keywords: ['check', 'confirm', 'okay', 'success'],
 	},
 };
 

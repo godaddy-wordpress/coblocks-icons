@@ -2,7 +2,10 @@
 	"label": "Map",
 
 	"keywords": [
-		"keyword"
+		"location",
+		"marker",
+		"position",
+		"world"
 	],
 
 	"styles": [

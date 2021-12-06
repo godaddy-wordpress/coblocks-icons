@@ -30,7 +30,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Submit',
-		keywords: ['keyword'],
+		keywords: ['input'],
 	},
 };
 

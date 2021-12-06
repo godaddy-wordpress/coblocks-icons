@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Logos',
-		keywords: ['keyword'],
+		keywords: ['certified', 'checkmark'],
 	},
 };
 

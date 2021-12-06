@@ -2,7 +2,9 @@
 	"label": "Accordion Item",
 
 	"keywords": [
-		"keyword"
+		"interface",
+		"modal",
+		"window"
 	],
 
 	"styles": [

@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Food and Drink',
-		keywords: ['keyword'],
+		keywords: ['bell', 'ring'],
 	},
 };
 

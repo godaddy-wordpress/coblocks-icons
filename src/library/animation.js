@@ -42,7 +42,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Animation',
-		keywords: ['keyword'],
+		keywords: ['balls', 'loading', 'movement', 'progression'],
 	},
 };
 

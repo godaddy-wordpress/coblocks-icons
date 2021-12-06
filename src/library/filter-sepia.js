@@ -32,7 +32,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Filter - Sepia',
-		keywords: ['keyword'],
+		keywords: ['flower', 'old', 'shine', 'star', 'vintage'],
 	},
 };
 

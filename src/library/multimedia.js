@@ -31,7 +31,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Multimedia',
-		keywords: ['keyword'],
+		keywords: ['media', 'photo', 'picture', 'video'],
 	},
 };
 

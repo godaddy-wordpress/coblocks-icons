@@ -28,7 +28,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Date',
-		keywords: ['keyword'],
+		keywords: ['date', 'day', 'month', 'time'],
 	},
 };
 

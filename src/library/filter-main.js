@@ -28,7 +28,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Filter - Main',
-		keywords: ['keyword'],
+		keywords: ['shine', 'star'],
 	},
 };
 

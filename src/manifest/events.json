@@ -2,7 +2,12 @@
 	"label": "Events",
 
 	"keywords": [
-		"keyword"
+		"calendar",
+		"date",
+		"day",
+		"month",
+		"schedule",
+		"time"
 	],
 
 	"styles": [

@@ -2,7 +2,9 @@
 	"label": "Form - Select",
 
 	"keywords": [
-		"keyword"
+		"collapse",
+		"dropdown",
+		"option"
 	],
 
 	"styles": [

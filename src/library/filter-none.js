@@ -31,7 +31,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Filter - None',
-		keywords: ['keyword'],
+		keywords: ['default', 'mountain'],
 	},
 };
 

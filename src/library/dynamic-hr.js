@@ -23,7 +23,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Dynamic HR',
-		keywords: ['keyword'],
+		keywords: ['cursor', 'divider', 'horizontal rule'],
 	},
 };
 

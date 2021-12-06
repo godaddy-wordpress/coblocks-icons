@@ -24,7 +24,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Name',
-		keywords: ['keyword'],
+		keywords: ['paragraph', 'person', 'text'],
 	},
 };
 

@@ -24,7 +24,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Checklist',
-		keywords: ['keyword'],
+		keywords: ['check', 'done', 'list', 'okay', 'task'],
 	},
 };
 

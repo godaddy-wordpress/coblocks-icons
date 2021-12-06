@@ -32,7 +32,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Filter - Grayscale',
-		keywords: ['keyword'],
+		keywords: ['black', 'white'],
 	},
 };
 

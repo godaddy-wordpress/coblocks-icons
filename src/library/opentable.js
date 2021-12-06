@@ -18,7 +18,7 @@ const icon = {
 	},
 	meta: {
 		label: 'OpenTable',
-		keywords: ['keyword'],
+		keywords: ['profile', 'share', 'social'],
 	},
 };
 

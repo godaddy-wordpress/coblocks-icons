@@ -32,7 +32,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Filter - Vintage',
-		keywords: ['keyword'],
+		keywords: ['flower', 'old', 'sepia'],
 	},
 };
 

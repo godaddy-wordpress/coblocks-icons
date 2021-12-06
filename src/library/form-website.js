@@ -30,7 +30,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Website',
-		keywords: ['keyword'],
+		keywords: ['browser', 'safari', 'web'],
 	},
 };
 

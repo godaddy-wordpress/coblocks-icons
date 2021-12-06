@@ -34,7 +34,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Gallery - Collage',
-		keywords: ['keyword'],
+		keywords: ['display', 'mountains'],
 	},
 };
 

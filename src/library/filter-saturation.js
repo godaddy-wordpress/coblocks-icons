@@ -28,7 +28,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Filter - Saturation',
-		keywords: ['keyword'],
+		keywords: ['drop', 'water', 'wet'],
 	},
 };
 

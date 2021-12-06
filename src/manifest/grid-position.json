@@ -2,7 +2,10 @@
 	"label": "Grid position",
 
 	"keywords": [
-		"keyword"
+		"align",
+		"centered",
+		"dots",
+		"position"
 	],
 
 	"styles": [

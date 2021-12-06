@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Content',
-		keywords: ['keyword'],
+		keywords: ['line', 'paragraph', 'text'],
 	},
 };
 

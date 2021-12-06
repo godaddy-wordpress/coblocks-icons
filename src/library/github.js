@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'GitHub',
-		keywords: ['keyword'],
+		keywords: ['cat', 'profile', 'share', 'social'],
 	},
 };
 

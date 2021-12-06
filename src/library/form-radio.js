@@ -28,7 +28,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Radio',
-		keywords: ['keyword'],
+		keywords: ['circle', 'round', 'select'],
 	},
 };
 

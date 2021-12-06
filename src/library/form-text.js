@@ -24,7 +24,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Text',
-		keywords: ['keyword'],
+		keywords: ['input', 'rectangle'],
 	},
 };
 

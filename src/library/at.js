@@ -22,7 +22,15 @@ const icon = {
 	},
 	meta: {
 		label: 'At',
-		keywords: ['keyword'],
+		keywords: [
+			'at sign',
+			'email',
+			'letter',
+			'mail',
+			'mention',
+			'message',
+			'symbol',
+		],
 	},
 };
 

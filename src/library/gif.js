@@ -34,7 +34,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Gif',
-		keywords: ['keyword'],
+		keywords: ['animated', 'image', 'photo', 'picture'],
 	},
 };
 

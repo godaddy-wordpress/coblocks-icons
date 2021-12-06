@@ -24,7 +24,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Form - Textarea',
-		keywords: ['keyword'],
+		keywords: ['paragraph', 'text'],
 	},
 };
 

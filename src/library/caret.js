@@ -24,7 +24,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Caret',
-		keywords: ['keyword'],
+		keywords: ['arrow', 'direction', 'up'],
 	},
 };
 

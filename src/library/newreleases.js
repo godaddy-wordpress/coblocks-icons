@@ -34,7 +34,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Releases',
-		keywords: ['new'],
+		keywords: ['exclamation', 'new'],
 	},
 };
 
