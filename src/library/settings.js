@@ -20,7 +20,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Settings',
-		keywords: ['keyword'],
+		keywords: ['dots', 'lines', 'preferences', 'sliders'],
 	},
 };
 

@@ -32,7 +32,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Post carousel',
-		keywords: ['keyword'],
+		keywords: ['lines', 'list', 'text'],
 	},
 };
 

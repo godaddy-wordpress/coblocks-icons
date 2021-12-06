@@ -31,7 +31,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Services',
-		keywords: ['keyword'],
+		keywords: ['bubble', 'lines', 'text'],
 	},
 };
 

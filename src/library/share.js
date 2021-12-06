@@ -29,7 +29,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Share',
-		keywords: ['keyword'],
+		keywords: ['dots', 'line', 'path', 'share'],
 	},
 };
 

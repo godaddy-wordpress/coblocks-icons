@@ -32,7 +32,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Timer',
-		keywords: ['keyword'],
+		keywords: ['chrono', 'hour', 'start', 'stop', 'time', 'watch'],
 	},
 };
 

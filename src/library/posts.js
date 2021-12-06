@@ -40,7 +40,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Posts',
-		keywords: ['keyword'],
+		keywords: ['double', 'text', 'twice'],
 	},
 };
 

@@ -25,7 +25,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Pricing table - Item',
-		keywords: ['keyword'],
+		keywords: ['cash', 'money', 'paper', 'sign'],
 	},
 };
 

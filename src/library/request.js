@@ -26,7 +26,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Request',
-		keywords: ['keyword'],
+		keywords: ['bullets', 'list', 'paper', 'text'],
 	},
 };
 

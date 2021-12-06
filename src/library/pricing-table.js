@@ -31,7 +31,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Pricing table',
-		keywords: ['keyword'],
+		keywords: ['cash', 'money', 'paper', 'sign'],
 	},
 };
 

@@ -28,7 +28,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Trash',
-		keywords: ['keyword'],
+		keywords: ['delete', 'empty', 'garbage', 'remove'],
 	},
 };
 

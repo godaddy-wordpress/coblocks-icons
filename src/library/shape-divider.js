@@ -34,7 +34,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Shape divider',
-		keywords: ['keyword'],
+		keywords: ['rectangle', 'wave'],
 	},
 };
 

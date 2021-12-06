@@ -26,7 +26,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Page',
-		keywords: ['keyword'],
+		keywords: ['corner', 'paper'],
 	},
 };
 

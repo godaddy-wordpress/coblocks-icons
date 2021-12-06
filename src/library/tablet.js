@@ -18,7 +18,16 @@ const icon = {
 	},
 	meta: {
 		label: 'Tablet',
-		keywords: ['keyword'],
+		keywords: [
+			'computer',
+			'device',
+			'ipad',
+			'monitor',
+			'office',
+			'pc',
+			'screen',
+			'surface',
+		],
 	},
 };
 

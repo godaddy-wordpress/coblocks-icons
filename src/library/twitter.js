@@ -22,7 +22,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Twitter',
-		keywords: ['keyword'],
+		keywords: ['media', 'share', 'social'],
 	},
 };
 

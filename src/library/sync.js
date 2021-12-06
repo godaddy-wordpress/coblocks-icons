@@ -18,7 +18,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Sync',
-		keywords: ['keyword'],
+		keywords: ['arrows', 'circle', 'refresh', 'synchronize', 'update'],
 	},
 };
 

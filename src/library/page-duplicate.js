@@ -26,7 +26,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Page duplicate',
-		keywords: ['keyword'],
+		keywords: ['corner', 'ghost', 'paper'],
 	},
 };
 

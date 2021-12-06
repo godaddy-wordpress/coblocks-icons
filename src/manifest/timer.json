@@ -2,7 +2,12 @@
 	"label": "Timer",
 
 	"keywords": [
-		"keyword"
+		"chrono",
+		"hour",
+		"start",
+		"stop",
+		"time",
+		"watch"
 	],
 
 	"styles": [

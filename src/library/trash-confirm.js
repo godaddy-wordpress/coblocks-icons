@@ -29,7 +29,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Trash confirm',
-		keywords: ['keyword'],
+		keywords: ['confirm', 'delete', 'garbage', 'half full', 'remove'],
 	},
 };
 

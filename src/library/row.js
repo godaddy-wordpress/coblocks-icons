@@ -29,7 +29,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Row',
-		keywords: ['keyword'],
+		keywords: ['divider', 'line'],
 	},
 };
 

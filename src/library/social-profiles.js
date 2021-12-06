@@ -40,7 +40,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Social profiles',
-		keywords: ['keyword'],
+		keywords: ['people', 'person', 'profiles', 'share', 'social'],
 	},
 };
 

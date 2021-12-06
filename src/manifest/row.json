@@ -2,7 +2,8 @@
 	"label": "Row",
 
 	"keywords": [
-		"keyword"
+		"divider",
+		"line"
 	],
 
 	"styles": [

@@ -35,7 +35,7 @@ const icon = {
 	},
 	meta: {
 		label: 'Paint can',
-		keywords: ['keyword'],
+		keywords: ['artist', 'colors', 'creative', 'design', 'palette'],
 	},
 };
 
