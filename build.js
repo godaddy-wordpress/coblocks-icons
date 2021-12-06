@@ -145,7 +145,7 @@ createIconsMD = async ( files ) => {
 		data.styles.forEach( ( style ) => {
 			content = style === 'default'
 				? content +
-				`| ${ data.label } ( ${ filename } ) | <img src="./src/svg/${ filename }.svg" width="24" height="24"> | ${ style } | ${ toPascalCase( filename ) }Icon | ${ data.keywords.map( ( keyword ) => ` ${ keyword }` ) } |\r\n`
+				`| ${ data.label } (${ filename }) | <img src="./src/svg/${ filename }.svg" width="24" height="24"> | ${ style } | ${ toPascalCase( filename ) }Icon | ${ data.keywords.map( ( keyword ) => ` ${ keyword }` ) } |\r\n`
 				: content +
 				`| | <img src="./src/svg/${ filename }-${ style }.svg" width="24" height="24"> | ${ style } | ${ toPascalCase( filename ) }Styles.${ style } | |\r\n`
 		} );
