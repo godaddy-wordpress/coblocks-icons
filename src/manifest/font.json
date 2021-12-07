@@ -1,0 +1,15 @@
+{
+	"label": "Font",
+
+	"keywords": [
+		"alphabet",
+		"square",
+		"text",
+		"typography"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

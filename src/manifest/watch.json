@@ -1,0 +1,16 @@
+{
+	"label": "Watch",
+
+	"keywords": [
+		"clock",
+		"device",
+		"hour",
+		"time",
+		"wrist"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"label": "Map",
+
+	"keywords": [
+		"location",
+		"marker",
+		"position",
+		"world"
+	],
+
+	"styles": [
+		"default"
+	]
+}

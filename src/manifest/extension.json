@@ -1,0 +1,15 @@
+{
+	"label": "Extension",
+
+	"keywords": [
+		"game",
+		"plugin",
+		"puzzle",
+		"widget"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

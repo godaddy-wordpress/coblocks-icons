@@ -1,0 +1,14 @@
+{
+	"label": "Form - Date",
+
+	"keywords": [
+		"date",
+		"day",
+		"month",
+		"time"
+	],
+
+	"styles": [
+		"default"
+	]
+}

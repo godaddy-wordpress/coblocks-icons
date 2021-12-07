@@ -1,0 +1,18 @@
+{
+	"label": "Color Picker",
+
+	"keywords": [
+		"artist",
+		"creative",
+		"design",
+		"eye dropper",
+		"media",
+		"paint",
+		"palette"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

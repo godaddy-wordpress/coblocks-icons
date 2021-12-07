@@ -1,3 +1,8 @@
+= 2.0.0 =
+* New build system
+* Using manifest files for Label, Styles and Keywords
+* Icons from CoBlocks Icon block added
+
 = 1.0.0 =
 * Icons added
   * accordion-item

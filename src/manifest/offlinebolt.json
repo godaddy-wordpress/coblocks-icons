@@ -1,0 +1,16 @@
+{
+	"label": "Offline Bolt",
+
+	"keywords": [
+		"amp",
+		"circle",
+		"lightning",
+		"performance",
+		"power"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

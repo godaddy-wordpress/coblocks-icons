@@ -1,0 +1,14 @@
+{
+	"label": "Calendar",
+
+	"keywords": [
+		"date",
+		"day",
+		"month",
+		"time"
+	],
+
+	"styles": [
+		"default"
+	]
+}

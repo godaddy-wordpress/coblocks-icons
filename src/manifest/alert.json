@@ -1,0 +1,15 @@
+{
+	"label": "Alert",
+
+	"keywords": [
+		"bell",
+		"danger",
+		"ring",
+		"sound",
+		"warning"
+	],
+
+	"styles": [
+		"default"
+	]
+}

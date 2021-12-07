@@ -1,0 +1,16 @@
+{
+	"label": "Swap Horizontal",
+
+	"keywords": [
+		"arrows",
+		"circle",
+		"move",
+		"shift",
+		"transition"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"label": "Event item",
+
+	"keywords": [
+		"calendar",
+		"date",
+		"day",
+		"month",
+		"time"
+	],
+
+	"styles": [
+		"default"
+	]
+}

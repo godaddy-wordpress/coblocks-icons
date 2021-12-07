@@ -1,0 +1,17 @@
+{
+	"label": "Cloud",
+
+	"keywords": [
+		"forecast",
+		"internet",
+		"network",
+		"rain",
+		"sky",
+		"weather"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

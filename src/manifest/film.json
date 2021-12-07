@@ -1,0 +1,19 @@
+{
+	"label": "Film",
+
+	"keywords": [
+		"aperture",
+		"camera",
+		"creative",
+		"director",
+		"media",
+		"photography",
+		"producer",
+		"video"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

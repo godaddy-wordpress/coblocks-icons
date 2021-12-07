@@ -1,0 +1,17 @@
+{
+	"label": "Star",
+
+	"keywords": [
+		"favorite",
+		"like",
+		"plus",
+		"rate",
+		"shape",
+		"vote"
+	],
+
+	"styles": [
+		"default",
+		"outlined"
+	]
+}

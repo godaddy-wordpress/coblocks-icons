@@ -1,0 +1,16 @@
+{
+	"label": "Timer",
+
+	"keywords": [
+		"chrono",
+		"hour",
+		"start",
+		"stop",
+		"time",
+		"watch"
+	],
+
+	"styles": [
+		"default"
+	]
+}
