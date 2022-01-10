@@ -209,6 +209,7 @@
 | Sync (sync) | <img src="./src/svg/sync.svg" width="24" height="24"> | default | SyncIcon |  arrows, circle, refresh, synchronize, update |
 | Tablet (tablet-mac) | <img src="./src/svg/tablet-mac.svg" width="24" height="24"> | default | TabletMacIcon |  computer, device, ipad, monitor, office, pc, screen, surface |
 | Tablet (tablet) | <img src="./src/svg/tablet.svg" width="24" height="24"> | default | TabletIcon |  computer, device, ipad, monitor, office, pc, screen, surface |
+| Testimonial (testimonial) | <img src="./src/svg/testimonial.svg" width="24" height="24"> | default | TestimonialIcon |  bubble, conversation, head, human, people, person, speach, speak, talk |
 | Timer (timer) | <img src="./src/svg/timer.svg" width="24" height="24"> | default | TimerIcon |  chrono, hour, start, stop, time, watch |
 | Radar (trackchanges) | <img src="./src/svg/trackchanges.svg" width="24" height="24"> | default | TrackchangesIcon |  find, locate, radio, scan, search, signal, sonar, time, tracking |
 | Translate (translate) | <img src="./src/svg/translate.svg" width="24" height="24"> | default | TranslateIcon |  alphabet, global, internationalization, language, linguistics, localization, polyglot, speech, world |
