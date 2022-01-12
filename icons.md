@@ -51,7 +51,7 @@
 | Content (content) | <img src="./src/svg/content.svg" width="24" height="24"> | default | ContentIcon |  line, paragraph, text |
 | Couch (couch) | <img src="./src/svg/couch.svg" width="24" height="24"> | default | CouchIcon |  chair, chill, relax, rest, sleep, sofa, weekend |
 | | <img src="./src/svg/couch-outlined.svg" width="24" height="24"> | outlined | CouchStyles.outlined | |
-| Counter (counter) | <img src="./src/svg/counter.svg" width="32" height="32"> | default | CounterIcon |  time, count, stats, number, ticker, watch |
+| Counter (counter) | <img src="./src/svg/counter.svg" width="24" height="24"> | default | CounterIcon |  count, number, stats, ticker, time, watch |
 | Credit Card (credit-card) | <img src="./src/svg/credit-card.svg" width="24" height="24"> | default | CreditCardIcon |  cash, checkout, commerce, ecommerce, money, payment, shop, store |
 | Custom typography (custom-typography) | <img src="./src/svg/custom-typography.svg" width="24" height="24"> | default | CustomTypographyIcon |  alphabet, letter, text |
 | Pie Chart (data-usage) | <img src="./src/svg/data-usage.svg" width="24" height="24"> | default | DataUsageIcon |  analytics, chart, circle, data, graph, pie, stats |
