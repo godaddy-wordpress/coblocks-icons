@@ -23,6 +23,7 @@
 | Blur (bluron) | <img src="./src/svg/bluron.svg" width="24" height="24"> | default | BluronIcon |  dots, plot, random |
 | Brush (brush) | <img src="./src/svg/brush.svg" width="24" height="24"> | default | BrushIcon |  artist, colors, creative, design, media, paint, paintbrush, palette |
 | | <img src="./src/svg/brush-outlined.svg" width="24" height="24"> | outlined | BrushStyles.outlined | |
+| Bubble (bubble) | <img src="./src/svg/bubble.svg" width="24" height="24"> | default | BubbleIcon |  conversation, head, human, people, person, speach, speak, talk, testimonial |
 | Tools (build) | <img src="./src/svg/build.svg" width="24" height="24"> | default | BuildIcon |  build, construction, settings, work, wrench |
 | | <img src="./src/svg/build-outlined.svg" width="24" height="24"> | outlined | BuildStyles.outlined | |
 | Cake (cake) | <img src="./src/svg/cake.svg" width="24" height="24"> | default | CakeIcon |  baking, birthday, celebration, food, fun, party, taste |
