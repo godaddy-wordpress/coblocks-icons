@@ -339,6 +339,11 @@ export {
 				meta as FireMeta
 			} from './library/fire';
 export {
+				default as FishIcon,
+				styles as FishStyles,
+				meta as FishMeta
+			} from './library/fish';
+export {
 				default as FlareIcon,
 				styles as FlareStyles,
 				meta as FlareMeta
@@ -503,6 +508,11 @@ export {
 				styles as GlobeStyles,
 				meta as GlobeMeta
 			} from './library/globe';
+export {
+				default as GlutenFreeIcon,
+				styles as GlutenFreeStyles,
+				meta as GlutenFreeMeta
+			} from './library/gluten-free';
 export {
 				default as GridPositionIcon,
 				styles as GridPositionStyles,
@@ -784,6 +794,11 @@ export {
 				meta as SpaMeta
 			} from './library/spa';
 export {
+				default as SpicyIcon,
+				styles as SpicyStyles,
+				meta as SpicyMeta
+			} from './library/spicy';
+export {
 				default as StarIcon,
 				styles as StarStyles,
 				meta as StarMeta
@@ -864,6 +879,16 @@ export {
 				meta as UpdateMeta
 			} from './library/update';
 export {
+				default as VeganIcon,
+				styles as VeganStyles,
+				meta as VeganMeta
+			} from './library/vegan';
+export {
+				default as VegetarianIcon,
+				styles as VegetarianStyles,
+				meta as VegetarianMeta
+			} from './library/vegetarian';
+export {
 				default as VerifieduserIcon,
 				styles as VerifieduserStyles,
 				meta as VerifieduserMeta
@@ -895,5 +920,5 @@ export {
 			} from './library/waves';
 
 		export const IconsList = [
-			"accessible","accordion-item","accordion","accounttree","album","alert","allinclusive","animation","aperture","at","audiotrack","author","blocks","bluron","brush","bubble","build","cake","calendar","camera","caret","cast","checklist","checkmark-circle","circle-add","circle-remove","city","cloud","coblocks","color-palette","color-picker","column","confirmationnumber","content","couch","counter","credit-card","custom-typography","data-usage","desktop-mac","desktop","device-hub","devices","devicesalternate","dining","drafts","duplicate","dynamic-hr","emoticon","event-item","events","explore","extension","face","facebook","faq","feature","film","filter-dark","filter-grayscale","filter-main","filter-none","filter-saturation","filter-sepia","filter-vintage","fingerprint","fire","flare","flip-horizontal","flip-vertical","flower","font","food-drink","food-item","form-checkbox","form-date","form-email","form-hidden","form-name","form-phone","form-radio","form-select","form-submit","form-text","form-textarea","form-website","form","formatshapes","functions","gallery-carousel","gallery-collage","gallery-masonry","gallery-offset","gallery-stacked","gallery","games","gesture","gif","github","globe","grid-position","groupadd","groupwork","headset","heart","hero","highlight","https","icon","keyboard-voice","keyboard","laptop-mac","layers","livetv","lockopen","logos","map","marker","media-card","menu","merge","mobile","mountains","multimedia","new","newreleases","offlinebolt","open","opentable","page-duplicate","page","paint-can","paint","poll","post-carousel","posts","pricing-table-item","pricing-table","recordvoiceover","reply-all","request","row","scatter-plot","school","security","send","service-item","services","settings","shape-divider","share","shipping","signal","snowflake","social-profiles","spa","star","style","swaphorizontal","swapvertical","sync","tablet-mac","tablet","testimonial","timer","trackchanges","translate","trash-confirm","trash","twitter","typography","update","verifieduser","video","vintage-filter","volume","watch","waves"
+			"accessible","accordion-item","accordion","accounttree","album","alert","allinclusive","animation","aperture","at","audiotrack","author","blocks","bluron","brush","bubble","build","cake","calendar","camera","caret","cast","checklist","checkmark-circle","circle-add","circle-remove","city","cloud","coblocks","color-palette","color-picker","column","confirmationnumber","content","couch","counter","credit-card","custom-typography","data-usage","desktop-mac","desktop","device-hub","devices","devicesalternate","dining","drafts","duplicate","dynamic-hr","emoticon","event-item","events","explore","extension","face","facebook","faq","feature","film","filter-dark","filter-grayscale","filter-main","filter-none","filter-saturation","filter-sepia","filter-vintage","fingerprint","fire","fish","flare","flip-horizontal","flip-vertical","flower","font","food-drink","food-item","form-checkbox","form-date","form-email","form-hidden","form-name","form-phone","form-radio","form-select","form-submit","form-text","form-textarea","form-website","form","formatshapes","functions","gallery-carousel","gallery-collage","gallery-masonry","gallery-offset","gallery-stacked","gallery","games","gesture","gif","github","globe","gluten-free","grid-position","groupadd","groupwork","headset","heart","hero","highlight","https","icon","keyboard-voice","keyboard","laptop-mac","layers","livetv","lockopen","logos","map","marker","media-card","menu","merge","mobile","mountains","multimedia","new","newreleases","offlinebolt","open","opentable","page-duplicate","page","paint-can","paint","poll","post-carousel","posts","pricing-table-item","pricing-table","recordvoiceover","reply-all","request","row","scatter-plot","school","security","send","service-item","services","settings","shape-divider","share","shipping","signal","snowflake","social-profiles","spa","spicy","star","style","swaphorizontal","swapvertical","sync","tablet-mac","tablet","testimonial","timer","trackchanges","translate","trash-confirm","trash","twitter","typography","update","vegan","vegetarian","verifieduser","video","vintage-filter","volume","watch","waves"
 		]
