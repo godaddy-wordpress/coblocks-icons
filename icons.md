@@ -91,6 +91,7 @@
 | Filter - Vintage (filter-vintage) | <img src="./src/svg/filter-vintage.svg" width="24" height="24"> | default | FilterVintageIcon |  flower, old, sepia |
 | Fingerprint (fingerprint) | <img src="./src/svg/fingerprint.svg" width="24" height="24"> | default | FingerprintIcon |  biometric, defense, identify, privacy, safe, scan, secure, security |
 | Fire (fire) | <img src="./src/svg/fire.svg" width="24" height="24"> | default | FireIcon |  camping, cook, flame, heat, hot, spicy, trending |
+| Fish (fish) | <img src="./src/svg/fish.svg" width="24" height="24"> | default | FishIcon |  fish, sea, sea-creature |
 | Flare (flare) | <img src="./src/svg/flare.svg" width="24" height="24"> | default | FlareIcon |  camera, creative, flower, light, photography, sun |
 | Filter - Horizontal (flip-horizontal) | <img src="./src/svg/flip-horizontal.svg" width="24" height="24"> | default | FlipHorizontalIcon |  divider, flip, separator |
 | Flip vertical (flip-vertical) | <img src="./src/svg/flip-vertical.svg" width="24" height="24"> | default | FlipVerticalIcon |  divider, flip, separator |
@@ -128,6 +129,7 @@
 | Gif (gif) | <img src="./src/svg/gif.svg" width="24" height="24"> | default | GifIcon |  animated, image, photo, picture |
 | GitHub (github) | <img src="./src/svg/github.svg" width="24" height="24"> | default | GithubIcon |  cat, profile, share, social |
 | Globe (globe) | <img src="./src/svg/globe.svg" width="24" height="24"> | default | GlobeIcon |  earth, global, location, map, public, world |
+| Gluten Free (gluten-free) | <img src="./src/svg/gluten-free.svg" width="24" height="24"> | default | GlutenFreeIcon |  no-gluten, gluten, free, food, diet |
 | Grid position (grid-position) | <img src="./src/svg/grid-position.svg" width="24" height="24"> | default | GridPositionIcon |  align, centered, dots, position |
 | Group Add (groupadd) | <img src="./src/svg/groupadd.svg" width="24" height="24"> | default | GroupaddIcon |  bulk, plus, team, users |
 | | <img src="./src/svg/groupadd-outlined.svg" width="24" height="24"> | outlined | GroupaddStyles.outlined | |
@@ -200,6 +202,7 @@
 | Social profiles (social-profiles) | <img src="./src/svg/social-profiles.svg" width="24" height="24"> | default | SocialProfilesIcon |  people, person, profiles, share, social |
 | Spa (spa) | <img src="./src/svg/spa.svg" width="24" height="24"> | default | SpaIcon |  flower, health, plant, resort, sauna, zen |
 | | <img src="./src/svg/spa-outlined.svg" width="24" height="24"> | outlined | SpaStyles.outlined | |
+| Spicy (spicy) | <img src="./src/svg/spicy.svg" width="24" height="24"> | default | SpicyIcon |  heat, hot, flavor, spicy, spice |
 | Star (star) | <img src="./src/svg/star.svg" width="24" height="24"> | default | StarIcon |  favorite, like, plus, rate, shape, vote |
 | | <img src="./src/svg/star-outlined.svg" width="24" height="24"> | outlined | StarStyles.outlined | |
 | Cards (style) | <img src="./src/svg/style.svg" width="24" height="24"> | default | StyleIcon |  games, layers, shuffle, stack |
@@ -221,6 +224,8 @@
 | Typography (typography) | <img src="./src/svg/typography.svg" width="24" height="24"> | default | TypographyIcon |  letter, underline, text, typo |
 | | <img src="./src/svg/typography-outlined.svg" width="24" height="24"> | outlined | TypographyStyles.outlined | |
 | Update (update) | <img src="./src/svg/update.svg" width="24" height="24"> | default | UpdateIcon |  arrow, backup, circle, clock, future, history, hour, schedule, time machine |
+| Vegan (vegan) | <img src="./src/svg/vegan.svg" width="24" height="24"> | default | VeganIcon |  vegan, diet, health |
+| Vegetarian (vegetarian) | <img src="./src/svg/vegetarian.svg" width="24" height="24"> | default | VegetarianIcon |  plant-eater, veggies, diet, herbavore |
 | Shield Check (verifieduser) | <img src="./src/svg/verifieduser.svg" width="24" height="24"> | default | VerifieduserIcon |  armor, guard, protect, safe, security, verified |
 | | <img src="./src/svg/verifieduser-outlined.svg" width="24" height="24"> | outlined | VerifieduserStyles.outlined | |
 | Video (video) | <img src="./src/svg/video.svg" width="24" height="24"> | default | VideoIcon |  creative, director, media, producer, film |
