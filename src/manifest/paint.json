@@ -1,6 +1,8 @@
 {
 	"label": "Paint",
 
+	"description": "A paint roller brush",
+
 	"keywords": [
 		"artist",
 		"brush",

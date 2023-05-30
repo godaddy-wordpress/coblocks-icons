@@ -1,6 +1,8 @@
 {
 	"label": "Email",
 
+	"description": "An opened letter",
+
 	"keywords": [
 		"letter",
 		"mail",

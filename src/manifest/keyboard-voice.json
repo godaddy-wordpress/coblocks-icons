@@ -1,6 +1,8 @@
 {
 	"label": "Microphone",
 
+	"description": "A microphone",
+
 	"keywords": [
 		"audio",
 		"media",

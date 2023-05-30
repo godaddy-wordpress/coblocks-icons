@@ -1,6 +1,8 @@
 {
 	"label": "Row",
 
+	"description": "A square with a horizontal line in the middle, could represent a divider or a row",
+
 	"keywords": [
 		"divider",
 		"line"

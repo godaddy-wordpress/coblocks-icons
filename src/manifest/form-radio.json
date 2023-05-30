@@ -1,6 +1,8 @@
 {
 	"label": "Form - Radio",
 
+	"description": "A circle with a dot in it to represent a choice, a radio button",
+
 	"keywords": [
 		"circle",
 		"round",

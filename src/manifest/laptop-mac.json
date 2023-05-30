@@ -1,6 +1,8 @@
 {
 	"label": "Laptop",
 
+	"description": "A laptop device",
+
 	"keywords": [
 		"computer",
 		"device",

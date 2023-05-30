@@ -1,6 +1,8 @@
 {
 	"label": "Update",
 
+	"description": "A clock symbol where the outline is a circle with an arrow pointing clockwise",
+
 	"keywords": [
 		"arrow",
 		"backup",

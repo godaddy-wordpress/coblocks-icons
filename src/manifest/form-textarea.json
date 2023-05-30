@@ -1,6 +1,8 @@
 {
 	"label": "Form - Textarea",
 
+	"description": "Four horizontal lines representing a paragraph of text",
+
 	"keywords": [
 		"paragraph",
 		"text"

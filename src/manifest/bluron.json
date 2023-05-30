@@ -1,6 +1,8 @@
 {
 	"label": "Blur",
 
+	"description": "A group of dots, fading when they are far away from the center",
+
 	"keywords": [
 		"dots",
 		"plot",

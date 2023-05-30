@@ -1,6 +1,8 @@
 {
 	"label": "Scatter Plot",
 
+	"description": "Three dots representing a scatter plot",
+
 	"keywords": [
 		"analytics",
 		"chart",

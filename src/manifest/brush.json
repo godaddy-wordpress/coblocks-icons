@@ -1,6 +1,8 @@
 {
 	"label": "Brush",
 
+	"description": "A paint brush",
+
 	"keywords": [
 		"artist",
 		"colors",

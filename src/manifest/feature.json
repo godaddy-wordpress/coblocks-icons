@@ -1,6 +1,8 @@
 {
 	"label": "Feature",
 
+	"description": "A marker with three lines, representing a featured text",
+
 	"keywords": [
 		"list",
 		"pointer",

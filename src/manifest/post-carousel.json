@@ -1,6 +1,8 @@
 {
 	"label": "Post carousel",
 
+	"description": "A square with two lines of text, and partial squares on each side, representing a carousel of posts",
+
 	"keywords": [
 		"lines",
 		"list",

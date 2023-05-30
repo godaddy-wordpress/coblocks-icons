@@ -1,6 +1,8 @@
 {
 	"label": "Diagram",
 
+	"description": "Three squares creating a diagram, a flowchart",
+
 	"keywords": [
 		"blueprint",
 		"flowchart",

@@ -1,6 +1,8 @@
 {
 	"label": "Substract Circle",
 
+	"description": "A circle with the minus sign",
+
 	"keywords": [
 		"remove",
 		"circle",

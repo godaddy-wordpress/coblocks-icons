@@ -1,6 +1,8 @@
 {
 	"label": "Blocks",
 
+	"description": "Four blocks in a 2 by 2 grid",
+
 	"keywords": [
 		"boxes",
 		"build",

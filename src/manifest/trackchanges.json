@@ -1,6 +1,8 @@
 {
 	"label": "Radar",
 
+	"description": "A radar with 3 circles",
+
 	"keywords": [
 		"find",
 		"locate",

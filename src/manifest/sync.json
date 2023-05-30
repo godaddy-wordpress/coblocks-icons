@@ -1,6 +1,8 @@
 {
 	"label": "Sync",
 
+	"description": "A circle consisting of two arrows, clockwise",
+
 	"keywords": [
 		"arrows",
 		"circle",

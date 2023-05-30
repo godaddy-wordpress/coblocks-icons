@@ -1,6 +1,8 @@
 {
 	"label": "Signal",
 
+	"description": "Two circles with a dot at the center, representing a signal",
+
 	"keywords": [
 		"radar",
 		"radio",

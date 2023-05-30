@@ -1,6 +1,8 @@
 {
 	"label": "Food item",
 
+	"description": "A tomato",
+
 	"keywords": [
 		"eat",
 		"restaurant",

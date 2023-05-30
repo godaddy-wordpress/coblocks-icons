@@ -1,6 +1,8 @@
 {
 	"label": "Swap Horizontal",
 
+	"description": "A circle with two arrows, one pointing left and one pointing right",
+
 	"keywords": [
 		"arrows",
 		"circle",

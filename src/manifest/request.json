@@ -1,6 +1,8 @@
 {
 	"label": "Request",
 
+	"description": "A piece of paper with a list of bullets on it",
+
 	"keywords": [
 		"bullets",
 		"list",

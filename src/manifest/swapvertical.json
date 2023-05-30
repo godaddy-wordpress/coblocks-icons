@@ -1,6 +1,8 @@
 {
 	"label": "Swap Vertical",
 
+	"description": "A circle with two arrows, one pointing up and one pointing down",
+
 	"keywords": [
 		"arrows",
 		"circle",

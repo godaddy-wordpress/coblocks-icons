@@ -1,6 +1,8 @@
 {
 	"label": "Accordion Item",
 
+	"description": "A window screen",
+
 	"keywords": [
 		"interface",
 		"modal",

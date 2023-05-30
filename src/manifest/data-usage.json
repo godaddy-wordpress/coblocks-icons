@@ -1,6 +1,8 @@
 {
 	"label": "Pie Chart",
 
+	"description": "A pie chart",
+
 	"keywords": [
 		"analytics",
 		"chart",

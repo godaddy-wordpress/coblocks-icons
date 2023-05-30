@@ -1,6 +1,8 @@
 {
 	"label": "Settings",
 
+	"description": "Three vertical sliders representend as dots and lines",
+
 	"keywords": [
 		"dots",
 		"lines",

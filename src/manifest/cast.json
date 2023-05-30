@@ -1,6 +1,8 @@
 {
 	"label": "Cast",
 
+	"description": "A rectangle with three curved lines in the bottom left corner, representing to cast something to a screen",
+
 	"keywords": [
 		"broadcast",
 		"chromecast",

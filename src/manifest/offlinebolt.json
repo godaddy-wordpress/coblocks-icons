@@ -1,6 +1,8 @@
 {
 	"label": "Offline Bolt",
 
+	"description": "A circle with a lightning bolt inside of it",
+
 	"keywords": [
 		"amp",
 		"circle",

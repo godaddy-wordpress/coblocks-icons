@@ -1,6 +1,8 @@
 {
 	"label": "Calendar",
 
+	"description": "A calendar",
+
 	"keywords": [
 		"date",
 		"day",

@@ -1,6 +1,8 @@
 {
 	"label": "Reply",
 
+	"description": "Two arrows, used when replying to all recipients of an email",
+
 	"keywords": [
 		"arrows",
 		"back",

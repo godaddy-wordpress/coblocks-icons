@@ -1,6 +1,8 @@
 {
 	"label": "Flip vertical",
 
+	"description": "A square horizontally divided in two halfs, meaning to flip something vertically",
+
 	"keywords": [
 		"divider",
 		"flip",

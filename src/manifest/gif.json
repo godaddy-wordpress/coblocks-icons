@@ -1,6 +1,8 @@
 {
 	"label": "Gif",
 
+	"description": "A square with the word GIF in it",
+
 	"keywords": [
 		"animated",
 		"image",

@@ -1,6 +1,8 @@
 {
 	"label": "Ticket",
 
+	"description": "A voucher or a coupon",
+
 	"keywords": [
 		"admission",
 		"coupon",

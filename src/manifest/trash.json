@@ -1,6 +1,8 @@
 {
 	"label": "Trash",
 
+	"description": "A trash can",
+
 	"keywords": [
 		"delete",
 		"empty",

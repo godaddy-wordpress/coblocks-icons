@@ -1,6 +1,8 @@
 {
 	"label": "Service item",
 
+	"description": "One bubble with two lines representing text",
+
 	"keywords": [
 		"bubble",
 		"lines",

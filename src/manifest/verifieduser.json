@@ -1,6 +1,8 @@
 {
 	"label": "Shield Check",
 
+	"description": "A shield with a checkmark inside indicating that a website is verified and secure",
+
 	"keywords": [
 		"armor",
 		"guard",

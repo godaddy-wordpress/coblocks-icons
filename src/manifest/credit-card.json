@@ -1,6 +1,8 @@
 {
 	"label": "Credit Card",
 
+	"description": "A credit card",
+
 	"keywords": [
 		"cash",
 		"checkout",

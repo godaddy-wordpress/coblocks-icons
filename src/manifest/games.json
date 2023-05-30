@@ -1,6 +1,8 @@
 {
 	"label": "Game Controls",
 
+	"description": "Four full arrows pointing in the middle, representing a d-pad",
+
 	"keywords": [
 		"controller",
 		"direction",

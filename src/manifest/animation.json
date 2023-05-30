@@ -1,6 +1,8 @@
 {
 	"label": "Animation",
 
+	"description": "A stack of three circles, progressing to the right",
+
 	"keywords": [
 		"balls",
 		"loading",

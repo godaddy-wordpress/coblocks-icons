@@ -1,6 +1,8 @@
 {
 	"label": "Gallery - Stacked",
 
+	"description": "A set of cards representing a gallery in the stacked style",
+
 	"keywords": [
 		"display",
 		"mountains"

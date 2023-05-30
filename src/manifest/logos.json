@@ -1,6 +1,8 @@
 {
 	"label": "Logos",
 
+	"description": "A circle inside a badge with a checkmark",
+
 	"keywords": [
 		"certified",
 		"checkmark"

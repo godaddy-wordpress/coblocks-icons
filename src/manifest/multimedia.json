@@ -1,6 +1,8 @@
 {
 	"label": "Multimedia",
 
+	"description": "A square representing a video with a square representing a photo",
+
 	"keywords": [
 		"media",
 		"photo",

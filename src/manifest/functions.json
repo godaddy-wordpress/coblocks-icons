@@ -1,6 +1,8 @@
 {
 	"label": "Sigma",
 
+	"description": "The greek letter Sigma, representing the sum of a series of numbers",
+
 	"keywords": [
 		"code",
 		"function",

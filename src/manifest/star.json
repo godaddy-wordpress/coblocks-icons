@@ -1,6 +1,8 @@
 {
 	"label": "Star",
 
+	"description": "A star",
+
 	"keywords": [
 		"favorite",
 		"like",

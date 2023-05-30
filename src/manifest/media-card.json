@@ -1,6 +1,8 @@
 {
 	"label": "Media card",
 
+	"description": "One big square outlined with a smaller square on the right side",
+
 	"keywords": [
 		"square"
 	],

@@ -1,6 +1,8 @@
 {
 	"label": "Page",
 
+	"description": "A rectangle with a corner folded over, representing a page",
+
 	"keywords": [
 		"corner",
 		"paper"

@@ -1,6 +1,8 @@
 {
 	"label": "Accordion",
 
+	"description": "Two rectangles representing an accordion of items",
+
 	"keywords": [
 		"item",
 		"window"

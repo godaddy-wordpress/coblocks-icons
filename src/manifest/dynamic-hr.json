@@ -1,6 +1,8 @@
 {
 	"label": "Dynamic HR",
 
+	"description": "The text cursor symbol",
+
 	"keywords": [
 		"cursor",
 		"divider",

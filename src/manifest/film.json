@@ -1,6 +1,8 @@
 {
 	"label": "Film",
 
+	"description": "A camera film roll",
+
 	"keywords": [
 		"aperture",
 		"camera",

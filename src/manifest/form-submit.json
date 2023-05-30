@@ -1,6 +1,8 @@
 {
 	"label": "Form - Submit",
 
+	"description": "A rectangle with a line in it, could represent a button",
+
 	"keywords": [
 		"input"
 	],

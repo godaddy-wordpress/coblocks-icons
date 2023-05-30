@@ -1,6 +1,8 @@
 {
 	"label": "Shipping",
 
+	"description": "A delivery truck, could represent shipping, commerce, or transport",
+
 	"keywords": [
 		"auto",
 		"cart",

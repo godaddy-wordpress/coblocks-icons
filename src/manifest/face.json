@@ -1,6 +1,8 @@
 {
 	"label": "Face",
 
+	"description": "A human face",
+
 	"keywords": [
 		"eyes",
 		"friendly",
