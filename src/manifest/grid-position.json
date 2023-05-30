@@ -1,8 +1,6 @@
 {
 	"label": "Grid position",
 
-	"description": "A 3 by 3 grid of dots, with the middle one bigger, could represent centering something",
-
 	"keywords": [
 		"align",
 		"centered",

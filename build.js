@@ -171,6 +171,7 @@ createAssociativeArray = async ( files ) => {
 		const filename = file.replace( '.json', '' );
 
 		data.styles.forEach( ( style ) => {
+			if( !data.description ) return;
 			content = style === 'default'
 				? content +
 				`  "${ filename }" => "${ data.description }",\r\n`

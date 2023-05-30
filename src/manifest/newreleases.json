@@ -1,8 +1,6 @@
 {
 	"label": "Releases",
 
-	"description": "An alert badge with an exclamation mark, indicating that there are new releases available",
-
 	"keywords": [
 		"exclamation",
 		"new"

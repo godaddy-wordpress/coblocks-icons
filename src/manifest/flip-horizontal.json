@@ -1,8 +1,6 @@
 {
 	"label": "Filter - Horizontal",
 
-	"description": "A square vertically divided in two halfs, meaning to flip something horizontally",
-
 	"keywords": [
 		"divider",
 		"flip",

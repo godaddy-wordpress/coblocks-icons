@@ -1,8 +1,6 @@
 {
 	"label": "Form - Text",
 
-	"description": "A rectangle, often used to represent a form input",
-
 	"keywords": [
 		"input",
 		"rectangle"
