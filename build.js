@@ -21,6 +21,7 @@ const init = async () => {
 
 	createIndex( manifests );
 	createIconsMD( manifests );
+	createAssociativeArray( manifests );
 };
 
 /**
@@ -152,6 +153,34 @@ createIconsMD = async ( files ) => {
 	};
 
 	await fs.writeFile( `${ __dirname }/icons.md`, content );
+};
+
+/**
+ * Create the Icons associative array
+ *
+ * @param {array} files - An array of all the files
+ */
+createAssociativeArray = async ( files ) => {
+	console.log( `Creating icons associative array` );
+
+	let content = `[\r\n`;
+
+	for( const file of files ) {
+		let data = await fs.readFile( manifestDirectory + file, 'utf-8' );
+		data = JSON.parse( data );
+		const filename = file.replace( '.json', '' );
+
+		data.styles.forEach( ( style ) => {
+			content = style === 'default'
+				? content +
+				`  "${ filename }" => "${ data.description }",\r\n`
+				: content;
+		} );
+	};
+
+	content = content + `]`;
+
+	await fs.writeFile( `${ __dirname }/.descriptiveArray.txt`, content );
 };
 
 /**
