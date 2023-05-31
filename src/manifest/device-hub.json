@@ -1,6 +1,8 @@
 {
 	"label": "Hub",
 
+	"description": "A circle and two squares, joined by lines",
+
 	"keywords": [
 		"connect",
 		"device",

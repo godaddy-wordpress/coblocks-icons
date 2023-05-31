@@ -1,6 +1,8 @@
 {
 	"label": "Shape divider",
 
+	"description": "A square with the shape of a wave inside",
+
 	"keywords": [
 		"rectangle",
 		"wave"

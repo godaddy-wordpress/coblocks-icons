@@ -1,6 +1,8 @@
 {
 	"label": "FAQ",
 
+	"description": "A circle with a question mark in it",
+
 	"keywords": [
 		"answer",
 		"frequently asked questions",

@@ -1,6 +1,8 @@
 {
 	"label": "Fingerprint",
 
+	"description": "A human fingerprint",
+
 	"keywords": [
 		"biometric",
 		"defense",

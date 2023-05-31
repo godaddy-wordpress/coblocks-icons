@@ -1,6 +1,8 @@
 {
 	"label": "Event item",
 
+	"description": "A calendar showing a single day",
+
 	"keywords": [
 		"calendar",
 		"date",

@@ -1,6 +1,8 @@
 {
 	"label": "Aperture",
 
+	"description": "A camera aperture",
+
 	"keywords": [
 		"camera",
 		"creative",

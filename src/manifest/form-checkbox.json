@@ -1,6 +1,8 @@
 {
 	"label": "Form - Checkbox",
 
+	"description": "A circle with a checkmark inside",
+
 	"keywords": [
 		"check",
 		"confirm",

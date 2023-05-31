@@ -1,6 +1,8 @@
 {
 	"label": "Timer",
 
+	"description": "A stop watch",
+
 	"keywords": [
 		"chrono",
 		"hour",

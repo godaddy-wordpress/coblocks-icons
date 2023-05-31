@@ -1,6 +1,8 @@
 {
 	"label": "Events",
 
+	"description": "A calendar showing multiple days",
+
 	"keywords": [
 		"calendar",
 		"date",

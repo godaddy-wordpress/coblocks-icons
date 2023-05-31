@@ -1,6 +1,8 @@
 {
 	"label": "Open",
 
+	"description": "A horizontal line with arrows on both ends, pointing up and down",
+
 	"keywords": [
 		"arrows",
 		"down",

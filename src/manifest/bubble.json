@@ -1,6 +1,8 @@
 {
 	"label": "Bubble",
 
+	"description": "A conversation bubble",
+
 	"keywords": [
 		"conversation",
 		"head",

@@ -1,6 +1,8 @@
 {
 	"label": "Caret",
 
+	"description": "A caret pointing up",
+
 	"keywords": [
 		"arrow",
 		"direction",

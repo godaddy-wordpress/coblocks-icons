@@ -1,6 +1,8 @@
 {
 	"label": "Watch",
 
+	"description": "A watch with no arrows",
+
 	"keywords": [
 		"clock",
 		"device",

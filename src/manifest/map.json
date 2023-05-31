@@ -1,6 +1,8 @@
 {
 	"label": "Map",
 
+	"description": "A map with a marker pin",
+
 	"keywords": [
 		"location",
 		"marker",

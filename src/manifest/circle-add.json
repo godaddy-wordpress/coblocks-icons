@@ -1,6 +1,8 @@
 {
 	"label": "Add Circle",
 
+	"description": "A circle with the plus sign",
+
 	"keywords": [
 		"add",
 		"circle",

@@ -1,6 +1,8 @@
 {
 	"label": "Extension",
 
+	"description": "A puzzle piece",
+
 	"keywords": [
 		"game",
 		"plugin",

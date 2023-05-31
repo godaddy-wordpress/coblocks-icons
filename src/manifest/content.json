@@ -1,6 +1,8 @@
 {
 	"label": "Content",
 
+	"description": "Three uneven horizontal lines of text",
+
 	"keywords": [
 		"line",
 		"paragraph",

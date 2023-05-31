@@ -1,6 +1,8 @@
 {
 	"label": "Checkmark circle",
 
+	"description": "A circle with a checkmark",
+
 	"keywords": [
 		"check",
 		"confirm",

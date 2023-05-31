@@ -1,6 +1,8 @@
 {
 	"label": "Poll",
 
+	"description": "A square with three uneven lines inside, representing a bar graph or a poll",
+
 	"keywords": [
 		"analytics",
 		"chart",

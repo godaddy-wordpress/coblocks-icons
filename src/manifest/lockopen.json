@@ -1,6 +1,8 @@
 {
 	"label": "Lock Open",
 
+	"description": "An opened lock",
+
 	"keywords": [
 		"http",
 		"insecure",

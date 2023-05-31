@@ -1,6 +1,8 @@
 {
 	"label": "Highlight",
 
+	"description": "A pen with a line, representing highlighting or writing a text",
+
 	"keywords": [
 		"annotate",
 		"pen",

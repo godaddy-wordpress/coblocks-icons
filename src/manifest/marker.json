@@ -1,6 +1,8 @@
 {
 	"label": "Marker",
 
+	"description": "A pin with a checkmark inside, indicating a verified location",
+
 	"keywords": [
 		"check",
 		"directions",

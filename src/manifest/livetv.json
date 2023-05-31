@@ -1,6 +1,8 @@
 {
 	"label": "Live TV",
 
+	"description": "A TV icon with a play symbol inside",
+
 	"keywords": [
 		"broadcast",
 		"livestream",

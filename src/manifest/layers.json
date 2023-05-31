@@ -1,6 +1,8 @@
 {
 	"label": "Layers",
 
+	"description": "Two squares, one on top of the other, rotated 45 degrees",
+
 	"keywords": [
 		"build",
 		"cards",

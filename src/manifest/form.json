@@ -1,6 +1,8 @@
 {
 	"label": "Form",
 
+	"description": "An envelope",
+
 	"keywords": [
 		"envelope",
 		"write"

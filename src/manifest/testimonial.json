@@ -1,6 +1,8 @@
 {
 	"label": "Testimonial",
 
+	"description": "A user outlined by a circle with a quote bubble next to them",
+
 	"keywords": [
 		"bubble",
 		"conversation",

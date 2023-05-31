@@ -1,6 +1,8 @@
 {
 	"label": "Form - Email",
 
+	"description": "The arobace symbol, used to represent email addresses",
+
 	"keywords": [
 		"at sign",
 		"email",

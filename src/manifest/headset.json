@@ -1,6 +1,8 @@
 {
 	"label": "Headset",
 
+	"description": "A headset",
+
 	"keywords": [
 		"audio",
 		"headphones",

@@ -1,6 +1,8 @@
 {
 	"label": "Album",
 
+	"description": "A vinyl record",
+
 	"keywords": [
 		"audio",
 		"bullseye",

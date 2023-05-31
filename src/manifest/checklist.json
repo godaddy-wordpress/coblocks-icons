@@ -1,6 +1,8 @@
 {
 	"label": "Checklist",
 
+	"description": "A set of three horizontal lines with a checkmark on the left side",
+
 	"keywords": [
 		"check",
 		"done",

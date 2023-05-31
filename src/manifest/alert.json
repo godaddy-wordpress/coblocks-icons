@@ -1,6 +1,8 @@
 {
 	"label": "Alert",
 
+	"description": "A bell, could be used for a warning, an alert or a sound",
+
 	"keywords": [
 		"bell",
 		"danger",

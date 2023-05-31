@@ -1,6 +1,8 @@
 {
 	"label": "Page duplicate",
 
+	"description": "A rectangle with a corner folded over, representing a page, with a ghosted duplicate of the page behind it",
+
 	"keywords": [
 		"corner",
 		"ghost",

@@ -1,6 +1,8 @@
 {
 	"label": "Food and Drink",
 
+	"description": "A food bell",
+
 	"keywords": [
 		"bell",
 		"ring"
